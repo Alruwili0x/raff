@@ -11,3 +11,15 @@ test('check, notification, explicit download, verification and apply form a gate
 test('size overrun and native verification errors cannot install an update',async()=>{const f=fixture();await f.u.check();f.status({status:'active',totalLength:'2000000',completedLength:'2'});await f.u.tick();assert.equal(f.u.state.phase,'error');assert(f.calls.some(c=>c[0]==='forceRemove'));const g=fixture();g.u.state={phase:'verifying'};g.native({phase:'error',error:'Checksum mismatch'});await g.u.tick();assert.equal(g.u.state.phase,'error');await assert.rejects(()=>g.u.apply());});
 test('same repository reattaches a download after service restart without enqueueing twice',()=>{const f=fixture();f.u.state={phase:'downloading',gid:'0000000000000001',release:U.release(data(),repo)};f.u.save();const restored=new U.Updates({config:{repository:repo},read:n=>f.saved[n],write:()=>{}});assert.equal(restored.state.gid,'0000000000000001');const changed=new U.Updates({config:{repository:'another/project'},read:n=>f.saved[n],write:()=>{}});assert.equal(changed.state.phase,'idle');});
 test('background checks back off and manual requests cannot flood GitHub',async()=>{const f=fixture();await f.u.check(true);await f.u.tick();f.u.state.phase='current';await f.u.check(true);assert.equal(f.calls.filter(c=>c[0]==='addUri').length,1);await f.u.check();assert.equal(f.calls.filter(c=>c[0]==='addUri').length,1);});
+import {readFileSync} from 'node:fs';
+import {runInNewContext} from 'node:vm';
+test('update handoff stops a late resident service after preparation has started',()=>{
+ const source=readFileSync(new URL('../service/main.js',import.meta.url),'utf8');
+ const code=source.slice(source.indexOf('function updateTick()'),source.indexOf('setTimeout(updateTick,15000);'));
+ for(const phase of ['waiting-close','preserving-art','error']){
+  let stopped=0,persisted=0,failed=0;
+  const ctx={updater:{tick:()=>Promise.resolve(),state:{phase:'applying'},fail:()=>failed++},queue:{persist:()=>persisted++},nativeStop:()=>stopped++,nativeRead:()=>JSON.stringify({phase,error:'retry'}),setTimeout(){},console};
+  runInNewContext(code+';updateTick();',ctx);
+  assert.equal(stopped,phase==='error'?0:1,phase);assert.equal(persisted,stopped);assert.equal(failed,phase==='error'?1:0);
+ }
+});
