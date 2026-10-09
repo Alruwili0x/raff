@@ -1,0 +1,14 @@
+name: Portable checks
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  policy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - run: node --test tests/updates.test.mjs tests/torrents.test.mjs tests/queue.test.mjs tests/retry.test.mjs tests/transport.test.mjs tests/paths.test.mjs tests/packages.test.mjs
+      - run: node --check service/main.js

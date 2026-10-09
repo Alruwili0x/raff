@@ -1,0 +1,210 @@
+[
+  {
+    "platform": "ps5",
+    "year": "2020",
+    "mark": "PS5",
+    "count": 274,
+    "cover": "da6d9b50775325fe",
+    "title": "PS5"
+  },
+  {
+    "platform": "ps4",
+    "year": "2013",
+    "mark": "PS4",
+    "count": 811,
+    "cover": "d4703bd48839ce7d",
+    "title": "PS4"
+  },
+  {
+    "platform": "ps3",
+    "year": "2006",
+    "mark": "PS3",
+    "count": 2115,
+    "cover": "3228e6f994cbceea",
+    "title": "PS3"
+  },
+  {
+    "platform": "ps2",
+    "year": "2000",
+    "mark": "PS2",
+    "count": 8612,
+    "cover": "88c21cee621f13dd",
+    "title": "PS2"
+  },
+  {
+    "platform": "ps1",
+    "year": "1994",
+    "mark": "PS1",
+    "count": 8809,
+    "cover": "403f8061f162b53a",
+    "title": "PS1"
+  },
+  {
+    "platform": "psp",
+    "year": "2004",
+    "mark": "PSP",
+    "count": 2311,
+    "cover": "art-ef776b5633c6472c",
+    "title": "PSP"
+  },
+  {
+    "platform": "switch",
+    "year": "2017",
+    "mark": "Switch",
+    "count": 1204,
+    "cover": "caa50a9d8cc20537",
+    "title": "Switch"
+  },
+  {
+    "platform": "gamecube",
+    "year": "2001",
+    "mark": "GameCube",
+    "count": 1166,
+    "cover": "art-07b4aebab1fd9e0c",
+    "title": "GameCube"
+  },
+  {
+    "platform": "wii",
+    "year": "2006",
+    "mark": "Wii",
+    "count": 2278,
+    "cover": "art-80325304a9a8fd77",
+    "title": "Wii"
+  },
+  {
+    "platform": "n64",
+    "year": "1996",
+    "mark": "N64",
+    "count": 585,
+    "cover": "art-c075920a04f1e969",
+    "title": "N64"
+  },
+  {
+    "platform": "snes",
+    "year": "1990",
+    "mark": "SNES",
+    "count": 2632,
+    "cover": "art-a8aaa0dc59237e38",
+    "title": "SNES"
+  },
+  {
+    "platform": "nes",
+    "year": "1983",
+    "mark": "NES",
+    "count": 4719,
+    "cover": "art-75447b5fabe03eed",
+    "title": "NES"
+  },
+  {
+    "platform": "gb",
+    "year": "1989",
+    "mark": "GAME BOY",
+    "count": 1617,
+    "cover": "art-77cb07af8afbe6ef",
+    "title": "GAME BOY"
+  },
+  {
+    "platform": "gbc",
+    "year": "1998",
+    "mark": "GBC",
+    "count": 1677,
+    "cover": "art-31a2f5b2b511aef3",
+    "title": "GAME BOY COLOR"
+  },
+  {
+    "platform": "gba",
+    "year": "2001",
+    "mark": "GBA",
+    "count": 2338,
+    "cover": "art-be00953ad93a2af9",
+    "title": "GAME BOY ADVANCE"
+  },
+  {
+    "platform": "nds",
+    "year": "2004",
+    "mark": "Nintendo DS",
+    "count": 5392,
+    "cover": "art-9861c7827d8e90a0",
+    "title": "Nintendo DS"
+  },
+  {
+    "platform": "3ds",
+    "year": "2011",
+    "mark": "Nintendo 3DS",
+    "count": 1323,
+    "cover": "art-f3f632078fa0927e",
+    "title": "Nintendo 3DS"
+  },
+  {
+    "platform": "xbox",
+    "year": "2001",
+    "mark": "XBOX",
+    "count": 243,
+    "cover": "05e8bfc17144777f",
+    "title": "XBOX"
+  },
+  {
+    "platform": "xbox360",
+    "year": "2005",
+    "mark": "XBOX 360",
+    "count": 2407,
+    "cover": "art-3444c4465a1e994e",
+    "title": "XBOX 360"
+  },
+  {
+    "platform": "dreamcast",
+    "year": "1998",
+    "mark": "Dreamcast",
+    "count": 969,
+    "cover": "art-586ccf6bc526d2b8",
+    "title": "Dreamcast"
+  },
+  {
+    "platform": "saturn",
+    "year": "1994",
+    "mark": "SATURN",
+    "count": 1824,
+    "cover": "art-23b28c39d5991cb6",
+    "title": "SATURN"
+  },
+  {
+    "platform": "segacd",
+    "year": "1991",
+    "mark": "SEGA CD",
+    "count": 356,
+    "cover": "art-9b42bd50f7128175",
+    "title": "SEGA CD"
+  },
+  {
+    "platform": "genesis",
+    "year": "1988",
+    "mark": "MEGA DRIVE",
+    "count": 1985,
+    "cover": "art-82a2096cceef7bf7",
+    "title": "MEGA DRIVE"
+  },
+  {
+    "platform": "mastersystem",
+    "year": "1985",
+    "mark": "MASTER SYSTEM",
+    "count": 699,
+    "cover": "art-fd6713a92f7d774b",
+    "title": "MASTER SYSTEM"
+  },
+  {
+    "platform": "gamegear",
+    "year": "1990",
+    "mark": "GAME GEAR",
+    "count": 490,
+    "cover": "art-6c97175e3c31c3d9",
+    "title": "GAME GEAR"
+  },
+  {
+    "platform": "arcade",
+    "year": "1971",
+    "mark": "ARCADE",
+    "count": 2422,
+    "cover": "art-fdf25c78f2871d1a",
+    "title": "ARCADE"
+  }
+]

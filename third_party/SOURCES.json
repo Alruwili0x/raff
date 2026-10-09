@@ -1,0 +1,40 @@
+{
+  "ui": {
+    "url": "https://github.com/blackbearreloaded/ps5-homebrew-ui",
+    "commit": "4bd942579dd981b3df9c740438489ca6a614ddc0"
+  },
+  "boilerplate": {
+    "url": "https://github.com/blackbearreloaded/ps5-native-app-boilerplate",
+    "commit": "f98de734b68b0b980d38ff03a330066afd6ae16d"
+  },
+  "opengl": {
+    "url": "https://github.com/blackbearreloaded/ps5-opengl/releases/tag/v1.0.1",
+    "version": "1.0.1",
+    "archiveSHA256": "aaa2e8957f55e1fc0b654dcb35a36e585f7e635d63952da40a28be7f64fde741"
+  },
+  "quickjs": {
+    "url": "https://github.com/bellard/quickjs",
+    "commit": "535a7c250ff4a577ec36c3e103daab6dadeea650"
+  },
+  "nlohmann": {
+    "url": "https://github.com/nlohmann/json",
+    "version": "3.12.0"
+  },
+  "stb": {
+    "url": "https://github.com/nothings/stb",
+    "revision": "Downloaded master; vendored file pinned by SHA-256 below"
+  },
+  "llvmEmutls": {
+    "url": "https://github.com/llvm/llvm-project",
+    "tag": "llvmorg-18.1.8"
+  },
+  "compiler": {
+    "url": "https://ziglang.org/",
+    "version": "0.14.1"
+  },
+  "hashes": {
+    "src/vendor/stb_image.h": "594c2fe35d49488b4382dbfaec8f98366defca819d916ac95becf3e75f4200b3",
+    "src/vendor/json.hpp": "aaf127c04cb31c406e5b04a63f1ae89369fccde6d8fa7cdda1ed4f32dfc5de63",
+    "src/vendor/runtime/emutls.c": "a4437f3e329a0835adbc7df38e36df12f358d05c073b11813c409f849c2345d2"
+  }
+}

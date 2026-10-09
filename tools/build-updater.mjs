@@ -1,0 +1,6 @@
+import{spawnSync}from'node:child_process';import{mkdir}from'node:fs/promises';import{resolve,dirname}from'node:path';import{tc,root,buildEnv as env}from'./toolchain.mjs';
+const out=resolve(tc.work,'update-build');await mkdir(out,{recursive:true});
+function run(args){const r=spawnSync(tc.zig,args,{stdio:'inherit',env});if(r.status!==0)throw Error('Updater build failed');}
+run(['cc','-target','x86_64-freebsd','-D__SCE__','-D_GNU_SOURCE','-DRAFF_UPDATER_MAIN','-O2','-Wno-deprecated-declarations','-fPIC','-fno-stack-protector','-fno-plt','-femulated-tls','-nostdinc','-I',resolve(tc.sdk,'target/include'),'-isystem',resolve(dirname(tc.zig),'lib/include'),'-I',resolve(tc.pacbrew,'include'),'-c',resolve(root,'service/updater.c'),'-o',resolve(out,'updater.o')]);
+run(['ld.lld','-m','elf_x86_64','-pie','--eh-frame-hdr','-z','max-page-size=0x4000','--hash-style=gnu','-T',resolve(tc.sdk,'ldscripts/elf_x86_64.x'),resolve(out,'updater.o'),'--start-group',resolve(tc.pacbrew,'lib/libcrypto.a'),'--end-group',resolve(tc.sdk,'target/lib/crt1.o'),'-L',resolve(tc.sdk,'target/lib'),'-lc','-lkernel_web','-lSceLibcInternal','-o',resolve(root,'raff-updater.elf')]);
+console.log('Built independent update installer');

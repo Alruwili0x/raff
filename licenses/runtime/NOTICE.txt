@@ -1,0 +1,62 @@
+Raff 0.4.0 — third-party components
+
+Raff's original native host and interface are provided under GPL-3.0-or-later.
+See ../LICENSE. Third-party programs, libraries and data retain their own terms.
+
+Embedded, independently running programs (unmodified official release files):
+
+aria2 for PS5 v1.37.0-3 — owendswang and aria2 contributors.
+https://github.com/owendswang/ps5-aria2/releases/tag/v1.37.0-3
+GPL-2.0-or-later; see licenses/aria2-GPL.txt and aria2-OpenSSL-exception.txt.
+The source includes Makefile.ps5 and the PS5 build guide. AriaNg, c-ares and OpenSSL
+notices are in licenses/aria2-components. Upstream pins AriaNg commit
+d3ccb51527d56d8b77a5928f0e1421d02ecbc1a1, c-ares 1.34.8 and OpenSSL 3.5.8.
+SDK dependencies also include libssh2, SQLite and zlib; see upstream build instructions.
+
+PS5 Web File Manager v1.10 — owendswang and contributors.
+https://github.com/owendswang/ps5-web-file-manager/releases/tag/v1.10
+GPL-3.0-or-later. See licenses/web-file-manager-GPL.txt.
+Its app_installer.c documents the per-title web shortcut interface used by Raff.
+
+WFM 7-Zip Helper v26.03-2 — Igor Pavlov, owendswang and contributors.
+https://github.com/owendswang/wfm-7zip-helper/releases/tag/v26.03-2
+Mostly LGPL-2.1-or-later, with BSD/public-domain code and the unRAR restriction.
+See licenses/7zip-License.txt and licenses/7zip-NOTICES.txt.
+Packaged as a separate ELF asset, not linked into Raff code.
+
+PS5 Payload SDK v0.42, distributed in pacbrew-repo toolchain v0.40.2.
+https://github.com/ps5-payload-dev/sdk/tree/v0.42
+Source commit: 4eb701204fc3f8d31e84cf8ca272974e2be9c867.
+John Törnblom and contributors; GPL-3.0-or-later, with individual FreeBSD/BSD notices
+preserved in the SDK source archive. Individual source headers remain authoritative.
+
+Mozilla CA certificate bundle via curl CA Extract:
+https://curl.se/docs/caextract.html
+https://curl.se/ca/cacert.pem
+Mozilla Public License 2.0; see licenses/MPL-2.0.txt and the bundle headers.
+
+sources/ holds the three payload projects and SDK source archives.
+sources.json records locations and SHA256 hashes. runtime/ holds original release files.
+../native/build-manifest.json records all embedded asset hashes.
+
+The game catalog contains external metadata/links only. Covers are fetched from their
+sources at runtime and are not bundled. Names, cover art, PlayStation and other
+trademarks belong to their respective owners.
+
+
+External factual metadata (titles/scores/counts/dates), checked 2026-10-05:
+https://www.metacritic.com/browse/game/ps2/ — PS2 critic scores and release dates.
+https://www.romspedia.com/roms/playstation-2 — source-specific download counts.
+Covers load from the originating provider, RomsPedia or Metacritic at runtime.
+No reviews, descriptions or game bodies are copied into the package.
+
+Launcher protocol reference (not a bundled loader):
+https://github.com/ps5-payload-dev/elfldr/blob/master/socksrv.c
+The user supplies the existing jailbreak/ELF Loader. No jailbreak is bundled.
+
+Switch factual title/category/date/artwork-URL metadata:
+https://github.com/blawar/titledb — Copyright (c) 2019 Blake Warner, MIT.
+License retained in licenses/TitleDB-MIT.txt. Artwork belongs to its respective owners and is fetched at runtime. No descriptions are copied.
+NSP listing and dynamic URL resolver: https://drive.dlarchive.my.id/dl/
+Public API: https://uptobox.dlarchive.my.id/files_api.php
+Discovered via https://nsroms.net/roms/ . Remote game files are not included in this distribution.

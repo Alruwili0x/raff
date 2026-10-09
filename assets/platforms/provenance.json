@@ -1,0 +1,50 @@
+[
+  {
+    "platform": "ps1",
+    "source": "https://github.com/simple-icons/simple-icons/blob/9.21.0/icons/playstation.svg",
+    "license": "CC0-1.0; trademarks belong to their owners",
+    "sha256": "24b5a7ca01074dc073008d74f2a50ec5e511249ed864b7faa7c0b01b2ef994a1"
+  },
+  {
+    "platform": "ps2",
+    "source": "https://github.com/simple-icons/simple-icons/blob/9.21.0/icons/playstation2.svg",
+    "license": "CC0-1.0; trademarks belong to their owners",
+    "sha256": "f27e05eff5b2ba4032de04d7467db4d466dd7676d89b002116583383d6addcd8"
+  },
+  {
+    "platform": "ps4",
+    "source": "https://github.com/simple-icons/simple-icons/blob/9.21.0/icons/playstation4.svg",
+    "license": "CC0-1.0; trademarks belong to their owners",
+    "sha256": "8088cd06ffc12d401d05704debd13620eb9e879a1ee18de3b4871905141c86d4"
+  },
+  {
+    "platform": "ps5",
+    "source": "https://github.com/simple-icons/simple-icons/blob/9.21.0/icons/playstation5.svg",
+    "license": "CC0-1.0; trademarks belong to their owners",
+    "sha256": "daf6a3631749cc3e3953b3d505460ad60bb72ad35eaa3221fd3b05e655193f78"
+  },
+  {
+    "platform": "xbox",
+    "source": "https://github.com/simple-icons/simple-icons/blob/9.21.0/icons/xbox.svg",
+    "license": "CC0-1.0; trademarks belong to their owners",
+    "sha256": "3386d6c348667c0f519515d945c2fd339b335093954abcd736d28b20e7240e31"
+  },
+  {
+    "platform": "xbox360",
+    "source": "https://github.com/simple-icons/simple-icons/blob/9.21.0/icons/xbox.svg",
+    "license": "CC0-1.0; trademarks belong to their owners",
+    "sha256": "3386d6c348667c0f519515d945c2fd339b335093954abcd736d28b20e7240e31"
+  },
+  {
+    "platform": "switch",
+    "source": "https://github.com/simple-icons/simple-icons/blob/9.21.0/icons/nintendoswitch.svg",
+    "license": "CC0-1.0; trademarks belong to their owners",
+    "sha256": "2c81b989185dadd5ef92c2828f7b60bbc90a1aceda1c5cf821dea4b9416d339a"
+  },
+  {
+    "platform": "ps3",
+    "source": "https://github.com/simple-icons/simple-icons/blob/9.21.0/icons/playstation3.svg",
+    "license": "CC0-1.0; trademarks belong to their owners",
+    "sha256": "f12a89c3848aa43bb761c944302187cc912c3dcc432eb74fa2f61e4b23da7b68"
+  }
+]

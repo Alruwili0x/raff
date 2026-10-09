@@ -1,0 +1,27 @@
+[
+  {
+    "file": "ps5-aria2-v1.37.0-3.tar.gz",
+    "url": "https://codeload.github.com/owendswang/ps5-aria2/tar.gz/refs/tags/v1.37.0-3",
+    "bytes": 4208412,
+    "sha256": "6b2bf37b43cdaf84b161f4ea17c0d7bafb9ecad08ebabda3babead9057e43419"
+  },
+  {
+    "file": "ps5-web-file-manager-v1.10.tar.gz",
+    "url": "https://codeload.github.com/owendswang/ps5-web-file-manager/tar.gz/refs/tags/v1.10",
+    "bytes": 1167848,
+    "sha256": "aeb540f786a5a8dd4b1fbed7db4ae0b4eda3e69912f92e028ab39d528dea360f"
+  },
+  {
+    "file": "wfm-7zip-helper-v26.03-2.tar.gz",
+    "url": "https://codeload.github.com/owendswang/wfm-7zip-helper/tar.gz/refs/tags/v26.03-2",
+    "bytes": 2284073,
+    "sha256": "ebad05cf549a1598b9eb9e7f7c2797d7b95e38f97ec97a42e9c408f81146d71f"
+  },
+  {
+    "file": "ps5-payload-sdk-v0.42.tar.gz",
+    "url": "https://codeload.github.com/ps5-payload-dev/sdk/tar.gz/refs/tags/v0.42",
+    "commit": "4eb701204fc3f8d31e84cf8ca272974e2be9c867",
+    "bytes": 3379151,
+    "sha256": "83bd06b5ca578b1d8bdeb1f4e9dcfe798a19a6f9fd31abc24801ea8859e113e0"
+  }
+]

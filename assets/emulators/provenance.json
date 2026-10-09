@@ -1,0 +1,32 @@
+[
+  {
+    "platform": "ps1",
+    "name": "RetroArch",
+    "source": "/data/homebrew/PPSA99169/sce_sys/icon0.png",
+    "sha256": "d8fdc8ae20f23ae5cf5681f40b3d2e0cdb8456c77c706840492077a069b3f6e1"
+  },
+  {
+    "platform": "ps2",
+    "name": "PS5SX2",
+    "source": "/data/homebrew/PPSA99203/sce_sys/icon0.png",
+    "sha256": "f57d5ca3ec4145e2c821490853d8fb0c265c3ba23772cdcb58c42246cea3d36f"
+  },
+  {
+    "platform": "switch",
+    "name": "ProsperoEden",
+    "source": "/data/homebrew/PPSA99008/sce_sys/icon0.png",
+    "sha256": "08e2da9843e11fb17c3ac4c14bc753d0fd37cb8bd5157b2fa9e474d99d8d48b7"
+  },
+  {
+    "platform": "xbox",
+    "name": "XPSemu",
+    "source": "/data/homebrew/PPSA97358/sce_sys/icon0.png",
+    "sha256": "0a6d9e98136d06517225447f1cd999f3386bc7cc18c9d72698608a3c7378c65e"
+  },
+  {
+    "platform": "xbox360",
+    "name": "PS5X360",
+    "source": "/data/homebrew/PPSA50011/sce_sys/icon0.png",
+    "sha256": "448d389c3398f5ccc8c15e7ba9cb428a7353ff448c68f9811f0f12018bb49e62"
+  }
+]

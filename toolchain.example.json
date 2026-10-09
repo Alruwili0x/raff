@@ -1,0 +1,9 @@
+{
+  "work": "C:/dev/raff-build",
+  "zig": "C:/dev/zig-0.14.1/zig.exe",
+  "sdk": "C:/dev/ps5-payload-sdk",
+  "gl": "C:/dev/ps5-opengl-sdk-1.0.1/sdk",
+  "quickjs": "C:/dev/quickjs-535a7c250ff4a577ec36c3e103daab6dadeea650",
+  "pacbrew": "C:/dev/pacbrew",
+  "converter": "C:/dev/ps5-native-tool.exe"
+}

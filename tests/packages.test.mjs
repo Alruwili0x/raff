@@ -1,0 +1,25 @@
+import test from 'node:test';import assert from 'node:assert/strict';
+import P from '../service/packages.js';
+const data=new Uint8Array(4096);new DataView(data.buffer).setUint32(0,0x7f434e54,false);
+const header=Buffer.from(data).toString('hex');
+const installed=(extra={})=>({size:8192,header,metadata:JSON.stringify({originalFileSize:8192}),playgo:'<psproject><chunk_status chunk_count="1"><chunks><chunk id="0" locus="3" req_locus="3"/></chunks></chunk_status></psproject>',...extra});
+function setup({remove=true,proofAfter=1,taskState='done',dropAck=false,changed=false}={}){
+ let now=100000,installedPolls=0,submitted=false,exists=true,deletes=0;const calls=[],path='/data/Games/Test.pkg',entry={path,name:'Test.pkg',type:'-',size:8192,mtime:5};
+ const c={list:async()=>exists?[{...entry,mtime:changed&&submitted?6:5}]:[],bytes:async()=>data,available:async()=>1e12,api:async(route,v)=>{calls.push(route);if(route==='pkg-info')return{content_id:'EP1234-CUSA12345_00-TEST',fields:[{name:'TITLE_ID',value:'CUSA12345'},{name:'CATEGORY',value:'gd'}]};if(route==='install-pkg'){submitted=true;if(dropAck)throw Error('connection lost');return{task_ids:[22]};}if(route==='tasks')return{tasks:[{id:22,op:'pkg_install',src:path,state:taskState,created_at:100,error:'Rejected'}]};if(route==='delete'){assert.equal(v.paths,path);assert.ok(installedPolls>=proofAfter);deletes++;exists=false;return{task_id:23};}throw Error(route);}};
+ const j={id:'job',phase:'pkg-ready',game:{platform:'ps4',titleId:'CUSA12345',destination:'/data/Games'},dir:'/data/raff/ps4-staging/job',files:[{name:'Test.pkg',path:'/data/raff/ps4-staging/job/Test.pkg',size:8192}],moved:[path],installOptions:{enabled:true,remove}};
+ const pkg=new P.Packages(c,{clock:()=>now,wait:async ms=>{now+=ms;},state:async()=>submitted&&++installedPolls>=proofAfter?installed():{}});
+ return{c,j,pkg,calls,run:()=>pkg.run(j,()=>{},()=>{},()=>false),get deletes(){return deletes;},get exists(){return exists;}};
+}
+test('installed proof rejects early playability, sparse copies, partial chunks and another package',()=>{
+ const receipt={size:8192,header};assert.equal(P.verifiedCopy(receipt,installed()),true);
+ for(const state of [null,{},installed({size:1}),installed({header:'wrong'}),installed({metadata:'{}'}),installed({playgo:'<chunk_status chunk_count="0"></chunk_status>'}),installed({playgo:'<chunk_status chunk_count="1"><chunk id="0" req_locus="3" locus="0"/></chunk_status>'}),installed({playgo:'<chunk_status chunk_count="2"><chunk id="0" locus="3"/></chunk_status>'}),installed({playgo:'<chunk_status chunk_count="2"><chunk id="0" locus="3"/><chunk id="0" locus="3"/></chunk_status>'})])assert.equal(P.verifiedCopy(receipt,state),false);
+});
+test('WFM submission success waits for the complete installed copy before deleting exactly the owned PKG',async()=>{const f=setup({proofAfter:4});await f.run();assert.equal(f.j.phase,'done');assert.equal(f.deletes,1);assert.ok(f.j.packageReceipts[0].confirmedAt);assert.ok(f.j.packageReceipts[0].removedAt);assert.equal(f.exists,false);});
+test('installation rejection retains PKG and allows a deliberate retry',async()=>{const f=setup({taskState:'failed'});await assert.rejects(f.run(),/Installation failed/);assert.equal(f.deletes,0);assert.equal(f.j.phase,'pkg-ready');assert.equal(f.exists,true);});
+test('uncertain submission resumes the exact existing task without installing twice',async()=>{const f=setup({dropAck:true});await assert.rejects(f.run(),/connection lost/);assert.equal(f.j.phase,'pkg-submit');await f.run();assert.equal(f.calls.filter(x=>x==='install-pkg').length,1);assert.equal(f.deletes,1);});
+test('keep-package preference installs but never deletes',async()=>{const f=setup({remove:false});await f.run();assert.equal(f.j.phase,'done');assert.equal(f.deletes,0);assert.equal(f.j.packageReceipts[0].retained,true);});
+test('a changed file after installation is retained',async()=>{const f=setup({changed:true});await assert.rejects(f.run(),/changed after/);assert.equal(f.deletes,0);});
+test('lack of space keeps the completed package without submitting',async()=>{const f=setup();f.c.available=async()=>0;await assert.rejects(f.run(),/space/);assert.equal(f.calls.includes('install-pkg'),false);assert.equal(f.deletes,0);});
+test('unsupported image formats are not installed or deleted',async()=>{const f=setup();f.j.files[0].name='Test.ffpkg';await f.run();assert.equal(f.j.phase,'done');assert.equal(f.calls.length,0);assert.equal(f.deletes,0);});
+test('restart after confirmed installation resumes cleanup without resubmission',async()=>{const f=setup();await f.run();const receipt=f.j.packageReceipts[0];f.j.phase='pkg-cleanup';f.j.packageIndex=0;await f.run();assert.equal(f.calls.filter(x=>x==='install-pkg').length,1);assert.equal(f.deletes,1);assert.equal(f.j.packageReceipts[0],receipt);});
+test('installation never completes on a timeout or missing copy and does not delete',async()=>{const f=setup({proofAfter:1e6});await assert.rejects(f.run(),/could not be confirmed/);assert.equal(f.deletes,0);assert.equal(f.exists,true);});

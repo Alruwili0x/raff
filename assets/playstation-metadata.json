@@ -1,0 +1,2963 @@
+{
+  "checkedAt": "2026-10-05T22:04:35.375Z",
+  "ratings": [
+    {
+      "requested": "Bloodborne",
+      "title": "Bloodborne",
+      "rating": 4.74,
+      "countLabel": "292K",
+      "source": "https://store.playstation.com/en-us/product/UP9000-CUSA00900_00-BLOODBORNECOMPLE",
+      "checkedAt": "2026-10-05T22:01:12.313Z",
+      "products": [
+        {
+          "id": "UP9000-CUSA00900_00-BLOODBORNECOMPLE",
+          "name": "Bloodborne™ Complete Edition Bundle"
+        }
+      ]
+    },
+    {
+      "requested": "God of War Ragnarok",
+      "title": "God of War Ragnarok",
+      "rating": 4.78,
+      "countLabel": "209K",
+      "source": "https://store.playstation.com/en-us/product/UP9000-PPSA08329_00-GOWRAGNAROK00000",
+      "checkedAt": "2026-10-05T22:01:12.418Z",
+      "products": [
+        {
+          "id": "UP9000-PPSA08329_00-GOWRAGNAROK00000",
+          "name": "God of War Ragnarök"
+        }
+      ]
+    },
+    {
+      "requested": "ELDEN RING",
+      "title": "ELDEN RING",
+      "rating": 4.71,
+      "countLabel": "184K",
+      "source": "https://store.playstation.com/en-us/product/UP0700-PPSA04610_00-ELDENRING0000000",
+      "checkedAt": "2026-10-05T22:01:12.492Z",
+      "products": [
+        {
+          "id": "UP0700-PPSA04610_00-ELDENRING0000000",
+          "name": "ELDEN RING PS4 & PS5"
+        }
+      ]
+    },
+    {
+      "requested": "Red Dead Redemption 2",
+      "title": "Red Dead Redemption 2",
+      "rating": 4.76,
+      "countLabel": "484K",
+      "source": "https://store.playstation.com/en-us/product/UP1004-CUSA03041_00-REDEMPTIONFULL02",
+      "checkedAt": "2026-10-05T22:01:12.594Z",
+      "products": [
+        {
+          "id": "UP1004-CUSA03041_00-REDEMPTIONFULL02",
+          "name": "Red Dead Redemption 2"
+        }
+      ]
+    },
+    {
+      "requested": "God of War",
+      "title": "God of War",
+      "rating": 4.74,
+      "countLabel": "312K",
+      "source": "https://store.playstation.com/en-us/product/UP9000-CUSA07408_00-00000000GODOFWAR",
+      "checkedAt": "2026-10-05T22:01:12.624Z",
+      "products": [
+        {
+          "id": "UP9000-CUSA07408_00-00000000GODOFWAR",
+          "name": "God of War"
+        }
+      ]
+    },
+    {
+      "requested": "Astro Bot",
+      "title": "Astro Bot",
+      "rating": 4.77,
+      "countLabel": "76K",
+      "source": "https://store.playstation.com/en-us/product/UP9000-PPSA21564_00-0000000000000000",
+      "checkedAt": "2026-10-05T22:01:14.560Z",
+      "products": [
+        {
+          "id": "UP9000-PPSA21564_00-0000000000000000",
+          "name": "ASTRO BOT"
+        }
+      ]
+    },
+    {
+      "requested": "The Last of Us Remastered",
+      "title": "The Last of Us Remastered",
+      "rating": 4.69,
+      "countLabel": "177",
+      "source": "https://store.playstation.com/en-us/product/UP9000-CUSA00552_00-TLOUULTIMATEHATS",
+      "checkedAt": "2026-10-05T22:01:14.659Z",
+      "products": [
+        {
+          "id": "UP9000-CUSA00552_00-TLOUULTIMATEHATS",
+          "name": "The Last Of Us™ Remastered - Ultimate Head Item Pack"
+        }
+      ]
+    },
+    {
+      "requested": "Ghost of Tsushima",
+      "title": "Ghost of Tsushima",
+      "rating": 4.6,
+      "countLabel": "329K",
+      "source": "https://store.playstation.com/en-us/product/UP9000-PPSA02225_00-GHOSTSHIP0000000",
+      "checkedAt": "2026-10-05T22:01:14.735Z",
+      "products": [
+        {
+          "id": "UP9000-PPSA02225_00-GHOSTSHIP0000000",
+          "name": "Ghost of Tsushima: Legends"
+        }
+      ]
+    },
+    {
+      "requested": "The Last of Us Part I",
+      "title": "The Last of Us Part I",
+      "rating": 4.88,
+      "countLabel": "144K",
+      "source": "https://store.playstation.com/en-us/product/UP9000-PPSA03396_00-THELASTOFUSPART1",
+      "checkedAt": "2026-10-05T22:01:14.874Z",
+      "products": [
+        {
+          "id": "UP9000-PPSA03396_00-THELASTOFUSPART1",
+          "name": "The Last of Us™ Part I"
+        }
+      ]
+    },
+    {
+      "requested": "Ghost of Yotei",
+      "title": "Ghost of Yotei",
+      "rating": 4.85,
+      "countLabel": "1.3K",
+      "source": "https://store.playstation.com/en-us/product/UP9000-PPSA26344_00-GHOST2CEUPGRADE0",
+      "checkedAt": "2026-10-05T22:01:15.603Z",
+      "products": [
+        {
+          "id": "UP9000-PPSA26344_00-GHOST2CEUPGRADE0",
+          "name": "Ghost of Yōtei™ Complete Edition Upgrade"
+        }
+      ]
+    },
+    {
+      "requested": "Returnal",
+      "title": "Returnal",
+      "rating": 4.37,
+      "countLabel": "27K",
+      "source": "https://store.playstation.com/en-us/product/UP9000-PPSA01284_00-RETURNALGAME0001",
+      "checkedAt": "2026-10-05T22:01:16.274Z",
+      "products": [
+        {
+          "id": "UP9000-PPSA01284_00-RETURNALGAME0001",
+          "name": "Returnal"
+        }
+      ]
+    },
+    {
+      "requested": "Marvel's Spider-Man Miles Morales",
+      "title": "Marvel's Spider-Man Miles Morales",
+      "rating": 4.53,
+      "countLabel": "188K",
+      "source": "https://store.playstation.com/en-us/product/UP9000-PPSA01411_00-MARVELSSMMORALES",
+      "checkedAt": "2026-10-05T22:01:16.489Z",
+      "products": [
+        {
+          "id": "UP9000-PPSA01411_00-MARVELSSMMORALES",
+          "name": "Marvel's Spider-Man: Miles Morales PS4 & PS5"
+        }
+      ]
+    },
+    {
+      "requested": "Demon's Souls",
+      "title": "Demon's Souls",
+      "rating": 4.3,
+      "countLabel": "37K",
+      "source": "https://store.playstation.com/en-us/product/UP9000-PPSA01342_00-DEMONSSOULS00000",
+      "checkedAt": "2026-10-05T22:01:16.800Z",
+      "products": [
+        {
+          "id": "UP9000-PPSA01342_00-DEMONSSOULS00000",
+          "name": "Demon's Souls"
+        }
+      ]
+    },
+    {
+      "requested": "Marvel's Spider-Man 2",
+      "title": "Marvel's Spider-Man 2",
+      "rating": 4.72,
+      "countLabel": "264K",
+      "source": "https://store.playstation.com/en-us/product/UP9000-PPSA03016_00-MARVELSPIDERMAN2",
+      "checkedAt": "2026-10-05T22:01:17.229Z",
+      "products": [
+        {
+          "id": "UP9000-PPSA03016_00-MARVELSPIDERMAN2",
+          "name": "Marvel’s Spider-Man 2"
+        }
+      ]
+    },
+    {
+      "requested": "Gran Turismo 7",
+      "title": "Gran Turismo 7",
+      "rating": 4.37,
+      "countLabel": "46K",
+      "source": "https://store.playstation.com/en-us/product/UP9000-PPSA01317_00-GT7STD0000000PS5",
+      "checkedAt": "2026-10-05T22:01:18.047Z",
+      "products": [
+        {
+          "id": "UP9000-PPSA01317_00-GT7STD0000000PS5",
+          "name": "Gran Turismo® 7"
+        }
+      ]
+    },
+    {
+      "requested": "Horizon Forbidden West",
+      "title": "Horizon Forbidden West",
+      "rating": 4.62,
+      "countLabel": "65K",
+      "source": "https://store.playstation.com/en-us/product/UP9000-PPSA04072_00-FORBIDDENWESTPS5",
+      "checkedAt": "2026-10-05T22:01:18.338Z",
+      "products": [
+        {
+          "id": "UP9000-PPSA04072_00-FORBIDDENWESTPS5",
+          "name": "Horizon Forbidden West™"
+        }
+      ]
+    },
+    {
+      "requested": "Resident Evil Village",
+      "title": "Resident Evil Village",
+      "rating": 4.64,
+      "countLabel": "72K",
+      "source": "https://store.playstation.com/en-us/product/UP0102-PPSA01556_00-VILLAGEFULLGAMEX",
+      "checkedAt": "2026-10-05T22:01:18.387Z",
+      "products": [
+        {
+          "id": "UP0102-PPSA01556_00-VILLAGEFULLGAMEX",
+          "name": "Resident Evil Village PS4 & PS5"
+        }
+      ]
+    },
+    {
+      "requested": "Horizon Zero Dawn",
+      "title": "Horizon Zero Dawn",
+      "rating": 4.74,
+      "countLabel": "216K",
+      "source": "https://store.playstation.com/en-us/product/UP9000-PPSA13428_00-HORIZONREMASTER1",
+      "checkedAt": "2026-10-05T22:01:18.878Z",
+      "products": [
+        {
+          "id": "UP9000-PPSA13428_00-HORIZONREMASTER1",
+          "name": "Horizon Zero Dawn™ Remastered"
+        }
+      ]
+    },
+    {
+      "requested": "Resident Evil 2",
+      "title": "Resident Evil 2",
+      "rating": 4.77,
+      "countLabel": "121K",
+      "source": "https://store.playstation.com/en-us/product/UP0102-PPSA04288_00-BH2R000000000001",
+      "checkedAt": "2026-10-05T22:01:19.671Z",
+      "products": [
+        {
+          "id": "UP0102-PPSA04288_00-BH2R000000000001",
+          "name": "RESIDENT EVIL 2"
+        }
+      ]
+    },
+    {
+      "requested": "Final Fantasy VII Rebirth",
+      "title": "Final Fantasy VII Rebirth",
+      "rating": 4.66,
+      "countLabel": "64K",
+      "source": "https://store.playstation.com/en-us/product/UP0082-PPSA08666_00-0783148264580163",
+      "checkedAt": "2026-10-05T22:01:20.466Z",
+      "products": [
+        {
+          "id": "UP0082-PPSA08666_00-0783148264580163",
+          "name": "FINAL FANTASY VII REBIRTH"
+        }
+      ]
+    },
+    {
+      "requested": "Resident Evil 3",
+      "title": "Resident Evil 3",
+      "rating": 4.41,
+      "countLabel": "85K",
+      "source": "https://store.playstation.com/en-us/product/UP0102-PPSA03952_00-BH3ROFF000000001",
+      "checkedAt": "2026-10-05T22:01:20.750Z",
+      "products": [
+        {
+          "id": "UP0102-PPSA03952_00-BH3ROFF000000001",
+          "name": "RESIDENT EVIL 3"
+        }
+      ]
+    },
+    {
+      "requested": "Final Fantasy XVI",
+      "title": "Final Fantasy XVI",
+      "rating": 4.47,
+      "countLabel": "54K",
+      "source": "https://store.playstation.com/en-us/product/UP0082-PPSA10664_00-FF16SIEA00000002",
+      "checkedAt": "2026-10-05T22:01:21.351Z",
+      "products": [
+        {
+          "id": "UP0082-PPSA10664_00-FF16SIEA00000002",
+          "name": "FINAL FANTASY XVI"
+        }
+      ]
+    },
+    {
+      "requested": "Stellar Blade",
+      "title": "Stellar Blade",
+      "rating": 4.81,
+      "countLabel": "93K",
+      "source": "https://store.playstation.com/en-us/product/UP9000-PPSA13196_00-STELLARBLADE0000",
+      "checkedAt": "2026-10-05T22:01:21.481Z",
+      "products": [
+        {
+          "id": "UP9000-PPSA13196_00-STELLARBLADE0000",
+          "name": "Stellar Blade™"
+        }
+      ]
+    },
+    {
+      "requested": "Cyberpunk 2077",
+      "title": "Cyberpunk 2077",
+      "rating": 4.54,
+      "countLabel": "223K",
+      "source": "https://store.playstation.com/en-us/product/UP4497-PPSA03974_00-0000000000000CP1",
+      "checkedAt": "2026-10-05T22:01:22.307Z",
+      "products": [
+        {
+          "id": "UP4497-PPSA03974_00-0000000000000CP1",
+          "name": "Cyberpunk 2077"
+        }
+      ]
+    },
+    {
+      "requested": "Baldur's Gate 3",
+      "title": "Baldur's Gate 3",
+      "rating": 4.78,
+      "countLabel": "111K",
+      "source": "https://store.playstation.com/en-us/product/UP3526-PPSA14001_00-0507384846053057",
+      "checkedAt": "2026-10-05T22:01:22.627Z",
+      "products": [
+        {
+          "id": "UP3526-PPSA14001_00-0507384846053057",
+          "name": "Baldur's Gate 3"
+        }
+      ]
+    },
+    {
+      "requested": "Resident Evil 7 Biohazard",
+      "title": "Resident Evil 7 Biohazard",
+      "rating": 4.64,
+      "countLabel": "68K",
+      "source": "https://store.playstation.com/en-us/product/UP0102-PPSA04400_00-BH70000000000001",
+      "checkedAt": "2026-10-05T22:01:23.186Z",
+      "products": [
+        {
+          "id": "UP0102-PPSA04400_00-BH70000000000001",
+          "name": "RESIDENT EVIL 7 biohazard"
+        }
+      ]
+    },
+    {
+      "requested": "Hogwarts Legacy",
+      "title": "Hogwarts Legacy",
+      "rating": 4.41,
+      "countLabel": "120K",
+      "source": "https://store.playstation.com/en-us/product/UP1018-PPSA01593_00-HOGWARTSLEGACY01",
+      "checkedAt": "2026-10-05T22:01:23.302Z",
+      "products": [
+        {
+          "id": "UP1018-PPSA01593_00-HOGWARTSLEGACY01",
+          "name": "Hogwarts Legacy PS5 Version"
+        }
+      ]
+    },
+    {
+      "requested": "Split Fiction",
+      "title": "Split Fiction",
+      "rating": 4.83,
+      "countLabel": "44K",
+      "source": "https://store.playstation.com/en-us/product/UP0006-PPSA08560_00-SPLITSTANDARDED0",
+      "checkedAt": "2026-10-05T22:01:24.275Z",
+      "products": [
+        {
+          "id": "UP0006-PPSA08560_00-SPLITSTANDARDED0",
+          "name": "Split Fiction"
+        }
+      ]
+    },
+    {
+      "requested": "Minecraft",
+      "title": "Minecraft",
+      "rating": 4.29,
+      "countLabel": "1M",
+      "source": "https://store.playstation.com/en-us/product/UP4433-PPSA17221_00-MINECRAFTPS50000",
+      "checkedAt": "2026-10-05T22:01:24.867Z",
+      "products": [
+        {
+          "id": "UP4433-PPSA17221_00-MINECRAFTPS50000",
+          "name": "Minecraft"
+        }
+      ]
+    },
+    {
+      "requested": "Grand Theft Auto V",
+      "title": "Grand Theft Auto V",
+      "rating": 4.46,
+      "countLabel": "1M",
+      "source": "https://store.playstation.com/en-us/product/UP1004-PPSA03420_00-GTAVANDGWSBUNDLE",
+      "checkedAt": "2026-10-05T22:01:24.914Z",
+      "products": [
+        {
+          "id": "UP1004-PPSA03420_00-GTAVANDGWSBUNDLE",
+          "name": "Grand Theft Auto V and Great White Shark Card Bundle"
+        }
+      ]
+    },
+    {
+      "requested": "Helldivers 2",
+      "title": "Helldivers 2",
+      "rating": 4.42,
+      "countLabel": "157K",
+      "source": "https://store.playstation.com/en-us/product/UP9000-PPSA01413_00-HELLDIVERS200000",
+      "checkedAt": "2026-10-05T22:01:26.039Z",
+      "products": [
+        {
+          "id": "UP9000-PPSA01413_00-HELLDIVERS200000",
+          "name": "HELLDIVERS™ 2"
+        }
+      ]
+    },
+    {
+      "requested": "Call of Duty Black Ops 6",
+      "title": "Call of Duty Black Ops 6",
+      "rating": 3.9,
+      "countLabel": "725K",
+      "source": "https://store.playstation.com/en-us/product/UP0002-PPSA01649_00-CODWZ2BUNDLE0001",
+      "checkedAt": "2026-10-05T22:01:26.582Z",
+      "products": [
+        {
+          "id": "UP0002-PPSA01649_00-CODWZ2BUNDLE0001",
+          "name": "Call of Duty®: Warzone™"
+        }
+      ]
+    },
+    {
+      "requested": "Call of Duty Black Ops III",
+      "title": "Call of Duty Black Ops III",
+      "rating": 4.44,
+      "countLabel": "385K",
+      "source": "https://store.playstation.com/en-us/product/UP0002-CUSA02290_00-CODBO3ZOMBIESEDN",
+      "checkedAt": "2026-10-05T22:01:27.090Z",
+      "products": [
+        {
+          "id": "UP0002-CUSA02290_00-CODBO3ZOMBIESEDN",
+          "name": "Call of Duty®: Black Ops III - Zombies Chronicles Edition"
+        }
+      ]
+    },
+    {
+      "requested": "Call of Duty Black Ops 4",
+      "title": "Call of Duty Black Ops 4",
+      "rating": 4.16,
+      "countLabel": "169K",
+      "source": "https://store.playstation.com/en-us/product/UP0002-CUSA11100_00-CODBO4DELUXE0001",
+      "checkedAt": "2026-10-05T22:01:27.116Z",
+      "products": [
+        {
+          "id": "UP0002-CUSA11100_00-CODBO4DELUXE0001",
+          "name": "Call of Duty®: Black Ops 4 - Digital Deluxe"
+        }
+      ]
+    },
+    {
+      "requested": "Call of Duty Black Ops Cold War",
+      "title": "Call of Duty Black Ops Cold War",
+      "rating": 4.19,
+      "countLabel": "230K",
+      "source": "https://store.playstation.com/en-us/product/UP0002-PPSA01628_00-CODCWTHEGAME0001",
+      "checkedAt": "2026-10-05T22:01:27.911Z",
+      "products": [
+        {
+          "id": "UP0002-PPSA01628_00-CODCWTHEGAME0001",
+          "name": "Call of Duty®: Black Ops Cold War - Cross-Gen Bundle PS4® & PS5®"
+        }
+      ]
+    },
+    {
+      "requested": "Farming Simulator 25",
+      "title": "Farming Simulator 25",
+      "rating": 3.69,
+      "countLabel": "19K",
+      "source": "https://store.playstation.com/en-us/product/EP4399-PPSA19644_00-FARMSIMULAT25PS5",
+      "checkedAt": "2026-10-05T22:01:28.575Z",
+      "products": [
+        {
+          "id": "EP4399-PPSA19644_00-FARMSIMULAT25PS5",
+          "name": "Farming Simulator 25"
+        }
+      ]
+    },
+    {
+      "requested": "Silent Hill 2",
+      "title": "Silent Hill 2",
+      "rating": 4.75,
+      "countLabel": "67K",
+      "source": "https://store.playstation.com/en-us/product/UP0101-PPSA08710_00-MAINGAME00000000",
+      "checkedAt": "2026-10-05T22:01:29.421Z",
+      "products": [
+        {
+          "id": "UP0101-PPSA08710_00-MAINGAME00000000",
+          "name": "SILENT HILL 2"
+        }
+      ]
+    },
+    {
+      "requested": "Death Stranding",
+      "title": "Death Stranding",
+      "rating": 4.61,
+      "countLabel": "93K",
+      "source": "https://store.playstation.com/en-us/product/UP9000-PPSA01969_00-DEATHSTRANDINGUS",
+      "checkedAt": "2026-10-05T22:01:29.522Z",
+      "products": [
+        {
+          "id": "UP9000-PPSA01969_00-DEATHSTRANDINGUS",
+          "name": "DEATH STRANDING DIRECTOR’S CUT"
+        }
+      ]
+    },
+    {
+      "requested": "Sifu",
+      "title": "Sifu",
+      "rating": 4.23,
+      "countLabel": "25K",
+      "source": "https://store.playstation.com/en-us/product/UP2703-PPSA05132_00-4856299050197748",
+      "checkedAt": "2026-10-05T22:01:29.724Z",
+      "products": [
+        {
+          "id": "UP2703-PPSA05132_00-4856299050197748",
+          "name": "Sifu"
+        }
+      ]
+    },
+    {
+      "requested": "Death Stranding 2 On the Beach",
+      "title": "Death Stranding 2 On the Beach",
+      "rating": 4.86,
+      "countLabel": "53K",
+      "source": "https://store.playstation.com/en-us/product/JP9000-PPSA02015_00-DS2OTB0000000001",
+      "checkedAt": "2026-10-05T22:01:30.254Z",
+      "products": [
+        {
+          "id": "JP9000-PPSA02015_00-DS2OTB0000000001",
+          "name": "DEATH STRANDING 2: ON THE BEACH"
+        }
+      ]
+    },
+    {
+      "requested": "Ratchet and Clank Rift Apart",
+      "title": "Ratchet and Clank Rift Apart",
+      "rating": 4.73,
+      "countLabel": "46K",
+      "source": "https://store.playstation.com/en-us/product/UP9000-PPSA01473_00-RATCHETCLANKRIFT",
+      "checkedAt": "2026-10-05T22:01:31.593Z",
+      "products": [
+        {
+          "id": "UP9000-PPSA01473_00-RATCHETCLANKRIFT",
+          "name": "Ratchet & Clank: Rift Apart"
+        }
+      ]
+    },
+    {
+      "requested": "Alan Wake 2",
+      "title": "Alan Wake 2",
+      "rating": 4.62,
+      "countLabel": "67K",
+      "source": "https://store.playstation.com/en-us/product/UP1477-PPSA02571_00-ALANWAKE20000000",
+      "checkedAt": "2026-10-05T22:01:31.747Z",
+      "products": [
+        {
+          "id": "UP1477-PPSA02571_00-ALANWAKE20000000",
+          "name": "Alan Wake 2"
+        }
+      ]
+    },
+    {
+      "requested": "Dying Light 2 Stay Human",
+      "title": "Dying Light 2 Stay Human",
+      "rating": 4.07,
+      "countLabel": "43K",
+      "source": "https://store.playstation.com/en-us/product/UP3050-PPSA02261_00-DL2GAME0000000US",
+      "checkedAt": "2026-10-05T22:01:32.194Z",
+      "products": [
+        {
+          "id": "UP3050-PPSA02261_00-DL2GAME0000000US",
+          "name": "Dying Light 2 Stay Human PS4&PS5"
+        }
+      ]
+    },
+    {
+      "requested": "Uncharted Legacy of Thieves Collection",
+      "title": "Uncharted Legacy of Thieves Collection",
+      "rating": 4.75,
+      "countLabel": "243K",
+      "source": "https://store.playstation.com/en-us/product/UP9000-PPSA05389_00-UNCHARTED4R00000",
+      "checkedAt": "2026-10-05T22:01:32.770Z",
+      "products": [
+        {
+          "id": "UP9000-PPSA05389_00-UNCHARTED4R00000",
+          "name": "UNCHARTED: Legacy of Thieves Collection"
+        }
+      ]
+    },
+    {
+      "requested": "Uncharted The Nathan Drake Collection",
+      "title": "Uncharted The Nathan Drake Collection",
+      "rating": 4.62,
+      "countLabel": "178K",
+      "source": "https://store.playstation.com/en-us/product/UP9000-CUSA03262_00-UNCHARTEDNDCDEMO",
+      "checkedAt": "2026-10-05T22:01:33.586Z",
+      "products": [
+        {
+          "id": "UP9000-CUSA03262_00-UNCHARTEDNDCDEMO",
+          "name": "UNCHARTED™ The Nathan Drake Collection Demo"
+        }
+      ]
+    },
+    {
+      "requested": "Dark Souls III",
+      "title": "Dark Souls III",
+      "rating": 4.78,
+      "countLabel": "94K",
+      "source": "https://store.playstation.com/en-us/product/UP0700-CUSA03388_00-DARKSOULS3DELUXE",
+      "checkedAt": "2026-10-05T22:01:34.051Z",
+      "products": [
+        {
+          "id": "UP0700-CUSA03388_00-DARKSOULS3DELUXE",
+          "name": "DARK SOULS™ III - Deluxe Edition"
+        }
+      ]
+    },
+    {
+      "requested": "Monster Hunter World",
+      "title": "Monster Hunter World",
+      "rating": 4.71,
+      "countLabel": "127K",
+      "source": "https://store.playstation.com/en-us/product/UP0102-CUSA07713_00-0000000000000000",
+      "checkedAt": "2026-10-05T22:01:34.870Z",
+      "products": [
+        {
+          "id": "UP0102-CUSA07713_00-0000000000000000",
+          "name": "MONSTER HUNTER: WORLD™"
+        }
+      ]
+    },
+    {
+      "requested": "Assassins Creed Shadows",
+      "title": "Assassins Creed Shadows",
+      "rating": 4.22,
+      "countLabel": "41K",
+      "source": "https://store.playstation.com/en-us/product/UP0001-PPSA20396_00-GAME000000000000",
+      "checkedAt": "2026-10-05T22:01:35.125Z",
+      "products": [
+        {
+          "id": "UP0001-PPSA20396_00-GAME000000000000",
+          "name": "Assassin’s Creed Shadows"
+        }
+      ]
+    },
+    {
+      "requested": "Monster Hunter Wilds",
+      "title": "Monster Hunter Wilds",
+      "rating": 4.1,
+      "countLabel": "89K",
+      "source": "https://store.playstation.com/en-us/product/UP0102-PPSA07862_00-MHWILDSSTANDARD0",
+      "checkedAt": "2026-10-05T22:01:35.432Z",
+      "products": [
+        {
+          "id": "UP0102-PPSA07862_00-MHWILDSSTANDARD0",
+          "name": "Monster Hunter Wilds"
+        }
+      ]
+    },
+    {
+      "requested": "Assassins Creed Odyssey",
+      "title": "Assassins Creed Odyssey",
+      "rating": 4.52,
+      "countLabel": "101K",
+      "source": "https://store.playstation.com/en-us/product/UP0001-CUSA09311_00-GAME000000000000",
+      "checkedAt": "2026-10-05T22:01:35.777Z",
+      "products": [
+        {
+          "id": "UP0001-CUSA09311_00-GAME000000000000",
+          "name": "Assassin's Creed® Odyssey"
+        }
+      ]
+    },
+    {
+      "requested": "Assassins Creed Valhalla",
+      "title": "Assassins Creed Valhalla",
+      "rating": 4.08,
+      "countLabel": "86K",
+      "source": "https://store.playstation.com/en-us/product/UP0001-CUSA18522_00-ACVACODACOBUNDLE",
+      "checkedAt": "2026-10-05T22:01:36.156Z",
+      "products": [
+        {
+          "id": "UP0001-CUSA18522_00-ACVACODACOBUNDLE",
+          "name": "Assassin's Creed Mythology pack"
+        }
+      ]
+    },
+    {
+      "requested": "Assassins Creed Mirage",
+      "title": "Assassins Creed Mirage",
+      "rating": 3.77,
+      "countLabel": "45K",
+      "source": "https://store.playstation.com/en-us/product/UP0001-PPSA07230_00-EDITIONSTANDARD0",
+      "checkedAt": "2026-10-05T22:01:36.928Z",
+      "products": [
+        {
+          "id": "UP0001-PPSA07230_00-EDITIONSTANDARD0",
+          "name": "Assassin's Creed® Mirage"
+        }
+      ]
+    },
+    {
+      "requested": "Batman Arkham Knight",
+      "title": "Batman Arkham Knight",
+      "rating": 4.64,
+      "countLabel": "158K",
+      "source": "https://store.playstation.com/en-us/product/UP1018-CUSA00133_00-BATMANARKHAMKNHT",
+      "checkedAt": "2026-10-05T22:01:37.029Z",
+      "products": [
+        {
+          "id": "UP1018-CUSA00133_00-BATMANARKHAMKNHT",
+          "name": "Batman™: Arkham Knight"
+        }
+      ]
+    },
+    {
+      "requested": "Ghostrunner",
+      "title": "Ghostrunner",
+      "rating": 4,
+      "countLabel": "11K",
+      "source": "https://store.playstation.com/en-us/product/UP4040-PPSA03682_00-GHOSTRUNNERCMPLT",
+      "checkedAt": "2026-10-05T22:01:37.907Z",
+      "products": [
+        {
+          "id": "UP4040-PPSA03682_00-GHOSTRUNNERCMPLT",
+          "name": "Ghostrunner: Complete Edition"
+        }
+      ]
+    },
+    {
+      "requested": "Days Gone",
+      "title": "Days Gone",
+      "rating": 4.66,
+      "countLabel": "179K",
+      "source": "https://store.playstation.com/en-us/product/UP9000-PPSA28180_00-DAYSGONEREMASTER",
+      "checkedAt": "2026-10-05T22:01:38.671Z",
+      "products": [
+        {
+          "id": "UP9000-PPSA28180_00-DAYSGONEREMASTER",
+          "name": "Days Gone Remastered"
+        }
+      ]
+    },
+    {
+      "requested": "Detroit Become Human",
+      "title": "Detroit Become Human",
+      "rating": 4.73,
+      "countLabel": "178K",
+      "source": "https://store.playstation.com/en-us/product/UP9000-CUSA10347_00-DETROITDEMO00001",
+      "checkedAt": "2026-10-05T22:01:39.047Z",
+      "products": [
+        {
+          "id": "UP9000-CUSA10347_00-DETROITDEMO00001",
+          "name": "Detroit: Become Human Demo"
+        }
+      ]
+    },
+    {
+      "requested": "Lies of P",
+      "title": "Lies of P",
+      "rating": 4.54,
+      "countLabel": "51K",
+      "source": "https://store.playstation.com/en-us/product/UP1685-PPSA10261_00-4396566144501976",
+      "checkedAt": "2026-10-05T22:01:39.709Z",
+      "products": [
+        {
+          "id": "UP1685-PPSA10261_00-4396566144501976",
+          "name": "Lies of P"
+        }
+      ]
+    },
+    {
+      "requested": "Sackboy A Big Adventure",
+      "title": "Sackboy A Big Adventure",
+      "rating": 4.32,
+      "countLabel": "29K",
+      "source": "https://store.playstation.com/en-us/product/UP9000-PPSA01289_00-SACKBOYADVENTURE",
+      "checkedAt": "2026-10-05T22:01:40.305Z",
+      "products": [
+        {
+          "id": "UP9000-PPSA01289_00-SACKBOYADVENTURE",
+          "name": "Sackboy: A Big Adventure PS4 & PS5"
+        }
+      ]
+    },
+    {
+      "requested": "Nioh 2",
+      "title": "Nioh 2",
+      "rating": 4.55,
+      "countLabel": "33K",
+      "source": "https://store.playstation.com/en-us/product/UP9000-PPSA02489_00-NIOH2NA000000000",
+      "checkedAt": "2026-10-05T22:01:40.921Z",
+      "products": [
+        {
+          "id": "UP9000-PPSA02489_00-NIOH2NA000000000",
+          "name": "Nioh 2 Remastered (PS5 Upgrade)"
+        }
+      ]
+    },
+    {
+      "requested": "Tekken 8",
+      "title": "Tekken 8",
+      "rating": 4.25,
+      "countLabel": "25K",
+      "source": "https://store.playstation.com/en-us/product/UP0700-PPSA10595_00-TEKKEN8000000000",
+      "checkedAt": "2026-10-05T22:01:41.865Z",
+      "products": [
+        {
+          "id": "UP0700-PPSA10595_00-TEKKEN8000000000",
+          "name": "TEKKEN 8"
+        }
+      ]
+    },
+    {
+      "requested": "Mortal Kombat 1",
+      "title": "Mortal Kombat 1",
+      "rating": 4.17,
+      "countLabel": "61K",
+      "source": "https://store.playstation.com/en-us/product/UP1018-PPSA07570_00-MKONE00000000000",
+      "checkedAt": "2026-10-05T22:01:41.933Z",
+      "products": [
+        {
+          "id": "UP1018-PPSA07570_00-MKONE00000000000",
+          "name": "Mortal Kombat™ 1"
+        }
+      ]
+    },
+    {
+      "requested": "Tekken 7",
+      "title": "Tekken 7",
+      "rating": 4.38,
+      "countLabel": "40K",
+      "source": "https://store.playstation.com/en-us/product/UP0700-CUSA05972_00-000000000TEKKEN7",
+      "checkedAt": "2026-10-05T22:01:42.323Z",
+      "products": [
+        {
+          "id": "UP0700-CUSA05972_00-000000000TEKKEN7",
+          "name": "TEKKEN 7"
+        }
+      ]
+    },
+    {
+      "requested": "Mortal Kombat 11",
+      "title": "Mortal Kombat 11",
+      "rating": 4.48,
+      "countLabel": "109K",
+      "source": "https://store.playstation.com/en-us/product/UP1018-PPSA01617_00-00MORTALKOMBAT11",
+      "checkedAt": "2026-10-05T22:01:42.542Z",
+      "products": [
+        {
+          "id": "UP1018-PPSA01617_00-00MORTALKOMBAT11",
+          "name": "Mortal Kombat 11"
+        }
+      ]
+    },
+    {
+      "requested": "Street Fighter 6",
+      "title": "Street Fighter 6",
+      "rating": 4.23,
+      "countLabel": "31K",
+      "source": "https://store.playstation.com/en-us/product/UP0102-PPSA02632_00-SF600000STANDARD",
+      "checkedAt": "2026-10-05T22:01:43.582Z",
+      "products": [
+        {
+          "id": "UP0102-PPSA02632_00-SF600000STANDARD",
+          "name": "Street Fighter™ 6"
+        }
+      ]
+    },
+    {
+      "requested": "Doom Eternal",
+      "title": "Doom Eternal",
+      "rating": 4.59,
+      "countLabel": "43K",
+      "source": "https://store.playstation.com/en-us/product/UP1003-PPSA01981_00-DOOMETERNALBUNDL",
+      "checkedAt": "2026-10-05T22:01:44.347Z",
+      "products": [
+        {
+          "id": "UP1003-PPSA01981_00-DOOMETERNALBUNDL",
+          "name": "DOOM Eternal Standard Edition"
+        }
+      ]
+    },
+    {
+      "requested": "Dead Space",
+      "title": "Dead Space",
+      "rating": 4.71,
+      "countLabel": "44K",
+      "source": "https://store.playstation.com/en-us/product/UP0006-PPSA03845_00-BEYONDPS5GAME000",
+      "checkedAt": "2026-10-05T22:01:44.842Z",
+      "products": [
+        {
+          "id": "UP0006-PPSA03845_00-BEYONDPS5GAME000",
+          "name": "Dead Space"
+        }
+      ]
+    },
+    {
+      "requested": "Doom The Dark Ages",
+      "title": "Doom The Dark Ages",
+      "rating": 4.66,
+      "countLabel": "16K",
+      "source": "https://store.playstation.com/en-us/product/UP1003-PPSA20560_00-DTITAN0000000000",
+      "checkedAt": "2026-10-05T22:01:44.902Z",
+      "products": [
+        {
+          "id": "UP1003-PPSA20560_00-DTITAN0000000000",
+          "name": "DOOM: The Dark Ages"
+        }
+      ]
+    },
+    {
+      "requested": "Forza Horizon 5",
+      "title": "Forza Horizon 5",
+      "rating": 4.01,
+      "countLabel": "69K",
+      "source": "https://store.playstation.com/en-us/product/UP6312-PPSA22327_00-0629872585919347",
+      "checkedAt": "2026-10-05T22:01:45.879Z",
+      "products": [
+        {
+          "id": "UP6312-PPSA22327_00-0629872585919347",
+          "name": "Forza Horizon 5 Standard Edition"
+        }
+      ]
+    },
+    {
+      "requested": "Dead Island 2",
+      "title": "Dead Island 2",
+      "rating": 4.21,
+      "countLabel": "38K",
+      "source": "https://store.playstation.com/en-us/product/UP2047-PPSA03098_00-DI2MAINSIEAPS500",
+      "checkedAt": "2026-10-05T22:01:45.926Z",
+      "products": [
+        {
+          "id": "UP2047-PPSA03098_00-DI2MAINSIEAPS500",
+          "name": "Dead Island 2"
+        }
+      ]
+    },
+    {
+      "requested": "Need for Speed Heat",
+      "title": "Need for Speed Heat",
+      "rating": 4.18,
+      "countLabel": "79K",
+      "source": "https://store.playstation.com/en-us/product/UP0006-CUSA15081_00-DELUXEEDITION000",
+      "checkedAt": "2026-10-05T22:01:48.766Z",
+      "products": [
+        {
+          "id": "UP0006-CUSA15081_00-DELUXEEDITION000",
+          "name": "Need for Speed™ Heat Deluxe Edition"
+        }
+      ]
+    },
+    {
+      "requested": "Watch Dogs 2",
+      "title": "Watch Dogs 2",
+      "rating": 4.37,
+      "countLabel": "188K",
+      "source": "https://store.playstation.com/en-us/product/UP0001-CUSA04459_00-DEMO000000000000",
+      "checkedAt": "2026-10-05T22:01:49.921Z",
+      "products": [
+        {
+          "id": "UP0001-CUSA04459_00-DEMO000000000000",
+          "name": "Watch Dogs 2 Demo"
+        }
+      ]
+    },
+    {
+      "requested": "LIMBO",
+      "title": "LIMBO",
+      "rating": 4.38,
+      "countLabel": "56K",
+      "source": "https://store.playstation.com/en-us/product/UP2054-CUSA01664_00-3438673406581463",
+      "checkedAt": "2026-10-05T22:01:50.158Z",
+      "products": [
+        {
+          "id": "UP2054-CUSA01664_00-3438673406581463",
+          "name": "LIMBO & INSIDE Bundle"
+        }
+      ]
+    },
+    {
+      "requested": "Cuphead",
+      "title": "Cuphead",
+      "rating": 4.5,
+      "countLabel": "57K",
+      "source": "https://store.playstation.com/en-us/product/UP8062-CUSA20499_00-CUPHEAD000000000",
+      "checkedAt": "2026-10-05T22:01:51.468Z",
+      "products": [
+        {
+          "id": "UP8062-CUSA20499_00-CUPHEAD000000000",
+          "name": "Cuphead"
+        }
+      ]
+    },
+    {
+      "requested": "A Way Out",
+      "title": "A Way Out",
+      "rating": 4.15,
+      "countLabel": "101K",
+      "source": "https://store.playstation.com/en-us/product/UP0006-CUSA07995_00-AWAYOUTDEMO00000",
+      "checkedAt": "2026-10-05T22:01:52.726Z",
+      "products": [
+        {
+          "id": "UP0006-CUSA07995_00-AWAYOUTDEMO00000",
+          "name": "A Way Out Demo"
+        }
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "platform": "ps5",
+      "title": "EA Sports Madden NFL 27",
+      "rank": 1,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Call of Duty: Black Ops II",
+      "rank": 1,
+      "period": "2026-08",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "MARVEL Tōkon: Fighting Souls",
+      "rank": 2,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Minecraft",
+      "rank": 2,
+      "period": "2026-08",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Call of Duty: Black Ops II",
+      "rank": 3,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Assassin’s Creed Black Flag Resynced",
+      "rank": 3,
+      "period": "2026-08",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "No More Room in Hell 2",
+      "rank": 4,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "The Lord of the Rings: War in the North – Legacy Edition",
+      "rank": 4,
+      "period": "2026-08",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Hell Let Loose: Vietnam",
+      "rank": 5,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Mafia: Definitive Edition for PS5",
+      "rank": 5,
+      "period": "2026-08",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "EA Sports College Football 27",
+      "rank": 6,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Grand Theft Auto V",
+      "rank": 6,
+      "period": "2026-08",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Minecraft",
+      "rank": 7,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Hell Let Loose: Vietnam",
+      "rank": 7,
+      "period": "2026-08",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Halo: Campaign Evolved",
+      "rank": 8,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Call of Duty: Black Ops",
+      "rank": 8,
+      "period": "2026-08",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Palworld",
+      "rank": 9,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Marvel’s Spider-Man 2",
+      "rank": 9,
+      "period": "2026-08",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Call of Duty: Black Ops",
+      "rank": 10,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Palworld",
+      "rank": 10,
+      "period": "2026-08",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Star Wars Zero Company",
+      "rank": 11,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Star Wars Zero Company",
+      "rank": 11,
+      "period": "2026-08",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Marvel’s Spider-Man 2",
+      "rank": 12,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Mortal Shell II",
+      "rank": 12,
+      "period": "2026-08",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "The Lord of the Rings: War in the North – Legacy Edition",
+      "rank": 13,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "No More Room in Hell 2",
+      "rank": 13,
+      "period": "2026-08",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Grand Theft Auto V",
+      "rank": 14,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Forza Horizon 5",
+      "rank": 14,
+      "period": "2026-08",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Assassin’s Creed Black Flag Resynced",
+      "rank": 15,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "007 First Light",
+      "rank": 15,
+      "period": "2026-08",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Mortal Shell II",
+      "rank": 16,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Halo: Campaign Evolved",
+      "rank": 16,
+      "period": "2026-08",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Mistfall Hunter",
+      "rank": 17,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Waterpark Simulator",
+      "rank": 17,
+      "period": "2026-08",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Metal Gear Solid: Master Collection Vol.2",
+      "rank": 18,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Escape the Backrooms",
+      "rank": 18,
+      "period": "2026-08",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "007 First Light",
+      "rank": 19,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "UFC 6",
+      "rank": 19,
+      "period": "2026-08",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Mafia: Definitive Edition for PS5",
+      "rank": 20,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Beast of Reincarnation",
+      "rank": 20,
+      "period": "2026-08",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Tom Clancy’s Ghost Recon Wildlands",
+      "rank": 1,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Assassin’s Creed Odyssey",
+      "rank": 1,
+      "period": "2026-08",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Red Dead Redemption 2",
+      "rank": 2,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Red Dead Redemption 2",
+      "rank": 2,
+      "period": "2026-08",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Gang Beasts",
+      "rank": 3,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Tom Clancy’s Ghost Recon Wildlands",
+      "rank": 3,
+      "period": "2026-08",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Batman: Arkham Knight",
+      "rank": 4,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Batman: Arkham Knight",
+      "rank": 4,
+      "period": "2026-08",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Dying Light",
+      "rank": 5,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Gang Beasts",
+      "rank": 5,
+      "period": "2026-08",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Assassin’s Creed Odyssey",
+      "rank": 6,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "The Forest",
+      "rank": 6,
+      "period": "2026-08",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Tom Clancy’s Ghost Recon Breakpoint",
+      "rank": 7,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Dying Light",
+      "rank": 7,
+      "period": "2026-08",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "The Forest",
+      "rank": 8,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Minecraft",
+      "rank": 8,
+      "period": "2026-08",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Minecraft",
+      "rank": 9,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Call of Duty: WWII",
+      "rank": 9,
+      "period": "2026-08",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Call of Duty: WWII",
+      "rank": 10,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "A Way Out",
+      "rank": 10,
+      "period": "2026-08",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Mortal Kombat X",
+      "rank": 11,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Mortal Kombat X",
+      "rank": 11,
+      "period": "2026-08",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Call of Duty: Black Ops III",
+      "rank": 12,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Call of Duty: Black Ops II",
+      "rank": 12,
+      "period": "2026-08",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "LEGO Marvel Super Heroes",
+      "rank": 13,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Tom Clancy’s Ghost Recon Breakpoint",
+      "rank": 13,
+      "period": "2026-08",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Call of Duty: Black Ops II",
+      "rank": 14,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Call of Duty: Modern Warfare 2 Campaign Remastered",
+      "rank": 14,
+      "period": "2026-08",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Call of Duty: Black Ops 4",
+      "rank": 15,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "LEGO Marvel Super Heroes",
+      "rank": 15,
+      "period": "2026-08",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "theHunter: Call of the Wild",
+      "rank": 16,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Need for Speed Heat",
+      "rank": 16,
+      "period": "2026-08",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Need for Speed Heat",
+      "rank": 17,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Assassin’s Creed Origins",
+      "rank": 17,
+      "period": "2026-08",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Call of Duty: Ghosts",
+      "rank": 18,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Unravel Two",
+      "rank": 18,
+      "period": "2026-08",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Star Wars Battlefront II",
+      "rank": 19,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Watch Dogs 2",
+      "rank": 19,
+      "period": "2026-08",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Bully",
+      "rank": 20,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Overcooked 2",
+      "rank": 20,
+      "period": "2026-08",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/09/04/playstation-store-august-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Call of Duty: Black Ops II",
+      "rank": 1,
+      "period": "2026-07",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Call of Duty: Black Ops II",
+      "rank": 1,
+      "period": "2026-07",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Call of Duty: Black Ops",
+      "rank": 2,
+      "period": "2026-07",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Call of Duty: Black Ops",
+      "rank": 2,
+      "period": "2026-07",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "EA Sports College Football 27",
+      "rank": 3,
+      "period": "2026-07",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Assassin’s Creed Black Flag Resynced",
+      "rank": 3,
+      "period": "2026-07",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Assassin’s Creed Black Flag Resynced",
+      "rank": 4,
+      "period": "2026-07",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "EA Sports FC 26",
+      "rank": 4,
+      "period": "2026-07",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "EA Sports FC 26",
+      "rank": 5,
+      "period": "2026-07",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Palworld",
+      "rank": 5,
+      "period": "2026-07",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Halo: Campaign Evolved",
+      "rank": 6,
+      "period": "2026-07",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Minecraft",
+      "rank": 6,
+      "period": "2026-07",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Palworld",
+      "rank": 7,
+      "period": "2026-07",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Halo: Campaign Evolved",
+      "rank": 7,
+      "period": "2026-07",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "NBA 2K26",
+      "rank": 8,
+      "period": "2026-07",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Escape the Backrooms",
+      "rank": 8,
+      "period": "2026-07",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Minecraft",
+      "rank": 9,
+      "period": "2026-07",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "NBA 2K26",
+      "rank": 9,
+      "period": "2026-07",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Escape the Backrooms",
+      "rank": 10,
+      "period": "2026-07",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "007 First Light",
+      "rank": 10,
+      "period": "2026-07",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "UFC 6",
+      "rank": 11,
+      "period": "2026-07",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "UFC 6",
+      "rank": 11,
+      "period": "2026-07",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "The Mound: Omen of Cthulhu",
+      "rank": 12,
+      "period": "2026-07",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "The Witcher 3: Wild Hunt",
+      "rank": 12,
+      "period": "2026-07",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "007 First Light",
+      "rank": 13,
+      "period": "2026-07",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "It Takes Two",
+      "rank": 13,
+      "period": "2026-07",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Echoes of Aincrad",
+      "rank": 14,
+      "period": "2026-07",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Grand Theft Auto V",
+      "rank": 14,
+      "period": "2026-07",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "MLB The Show 26",
+      "rank": 15,
+      "period": "2026-07",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Resident Evil 4",
+      "rank": 15,
+      "period": "2026-07",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Grand Theft Auto V",
+      "rank": 16,
+      "period": "2026-07",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Backrooms: Escape Together",
+      "rank": 16,
+      "period": "2026-07",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Avatar Legends: The Fighting Game",
+      "rank": 17,
+      "period": "2026-07",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "The Mound: Omen of Cthulhu",
+      "rank": 17,
+      "period": "2026-07",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Battlefield 6",
+      "rank": 18,
+      "period": "2026-07",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Forza Horizon 5",
+      "rank": 18,
+      "period": "2026-07",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Call of Duty: Black Ops 7",
+      "rank": 19,
+      "period": "2026-07",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Gran Turismo 7",
+      "rank": 19,
+      "period": "2026-07",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "It Takes Two",
+      "rank": 20,
+      "period": "2026-07",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Battlefield 6",
+      "rank": 20,
+      "period": "2026-07",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Call of Duty: Black Ops II",
+      "rank": 1,
+      "period": "2026-07",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Call of Duty: Black Ops II",
+      "rank": 1,
+      "period": "2026-07",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Call of Duty: Black Ops III",
+      "rank": 2,
+      "period": "2026-07",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "EA Sports FC 26",
+      "rank": 2,
+      "period": "2026-07",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Batman: Arkham Knight",
+      "rank": 3,
+      "period": "2026-07",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Red Dead Redemption 2",
+      "rank": 3,
+      "period": "2026-07",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Red Dead Redemption 2",
+      "rank": 4,
+      "period": "2026-07",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Batman: Arkham Knight",
+      "rank": 4,
+      "period": "2026-07",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Call of Duty: Black Ops",
+      "rank": 5,
+      "period": "2026-07",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Call of Duty: Black Ops",
+      "rank": 5,
+      "period": "2026-07",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Gang Beasts",
+      "rank": 6,
+      "period": "2026-07",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "A Way Out",
+      "rank": 6,
+      "period": "2026-07",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Call of Duty: Modern Warfare",
+      "rank": 7,
+      "period": "2026-07",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "The Forest",
+      "rank": 7,
+      "period": "2026-07",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "EA Sports FC 26",
+      "rank": 8,
+      "period": "2026-07",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Call of Duty: Modern Warfare",
+      "rank": 8,
+      "period": "2026-07",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "The Forest",
+      "rank": 9,
+      "period": "2026-07",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Call of Duty: Black Ops III",
+      "rank": 9,
+      "period": "2026-07",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Destiny – The Collection",
+      "rank": 10,
+      "period": "2026-07",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Assassin’s Creed Odyssey",
+      "rank": 10,
+      "period": "2026-07",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Mortal Kombat X",
+      "rank": 11,
+      "period": "2026-07",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Mortal Kombat X",
+      "rank": 11,
+      "period": "2026-07",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "NBA 2K26",
+      "rank": 12,
+      "period": "2026-07",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "God of War",
+      "rank": 12,
+      "period": "2026-07",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "A Way Out",
+      "rank": 13,
+      "period": "2026-07",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Unravel Two",
+      "rank": 13,
+      "period": "2026-07",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Minecraft",
+      "rank": 14,
+      "period": "2026-07",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Minecraft",
+      "rank": 14,
+      "period": "2026-07",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "God of War",
+      "rank": 15,
+      "period": "2026-07",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Gang Beasts",
+      "rank": 15,
+      "period": "2026-07",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Devil May Cry HD Collection",
+      "rank": 16,
+      "period": "2026-07",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "The Last of Us Remastered",
+      "rank": 16,
+      "period": "2026-07",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Dying Light",
+      "rank": 17,
+      "period": "2026-07",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Devil May Cry HD Collection",
+      "rank": 17,
+      "period": "2026-07",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Middle-earth: Shadow of War",
+      "rank": 18,
+      "period": "2026-07",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Dying Light",
+      "rank": 18,
+      "period": "2026-07",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Bloodborne",
+      "rank": 19,
+      "period": "2026-07",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Middle-earth: Shadow of War",
+      "rank": 19,
+      "period": "2026-07",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Resident Evil 5",
+      "rank": 20,
+      "period": "2026-07",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Mafia: Trilogy",
+      "rank": 20,
+      "period": "2026-07",
+      "region": "EU",
+      "source": "https://blog.playstation.com/2026/08/10/playstation-store-july-2026s-top-downloads/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Black Myth: Wukong",
+      "rank": 1,
+      "period": "2026-08",
+      "region": "Asia",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps5",
+      "title": "EA Sports Madden NFL 27",
+      "rank": 1,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps5",
+      "title": "NBA 2K27",
+      "rank": 2,
+      "period": "2026-08",
+      "region": "Asia",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps5",
+      "title": "MARVEL Tōkon: Fighting Souls",
+      "rank": 2,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Marvel’s Spider-Man 2",
+      "rank": 3,
+      "period": "2026-08",
+      "region": "Asia",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Call of Duty: Black Ops II",
+      "rank": 3,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Beast of Reincarnation",
+      "rank": 4,
+      "period": "2026-08",
+      "region": "Asia",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps5",
+      "title": "No More Room in Hell 2",
+      "rank": 4,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Mafia: Definitive Edition for PS5",
+      "rank": 5,
+      "period": "2026-08",
+      "region": "Asia",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Hell Let Loose: Vietnam",
+      "rank": 5,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Forza Horizon 5",
+      "rank": 6,
+      "period": "2026-08",
+      "region": "Asia",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps5",
+      "title": "EA Sports College Football 27",
+      "rank": 6,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps5",
+      "title": "It Takes Two",
+      "rank": 7,
+      "period": "2026-08",
+      "region": "Asia",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Minecraft",
+      "rank": 7,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Mortal Shell II",
+      "rank": 8,
+      "period": "2026-08",
+      "region": "Asia",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Halo: Campaign Evolved",
+      "rank": 8,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps5",
+      "title": "The Witcher 3: Wild Hunt",
+      "rank": 9,
+      "period": "2026-08",
+      "region": "Asia",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Palworld",
+      "rank": 9,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Ghost of Yōtei",
+      "rank": 10,
+      "period": "2026-08",
+      "region": "Asia",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Call of Duty: Black Ops",
+      "rank": 10,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps5",
+      "title": "MARVEL Tōkon: Fighting Souls",
+      "rank": 11,
+      "period": "2026-08",
+      "region": "Asia",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Star Wars Zero Company",
+      "rank": 11,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Brotato",
+      "rank": 12,
+      "period": "2026-08",
+      "region": "Asia",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Marvel’s Spider-Man 2",
+      "rank": 12,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Crimson Desert",
+      "rank": 13,
+      "period": "2026-08",
+      "region": "Asia",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps5",
+      "title": "The Lord of the Rings: War in the North – Legacy Edition",
+      "rank": 13,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Palworld",
+      "rank": 14,
+      "period": "2026-08",
+      "region": "Asia",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Grand Theft Auto V",
+      "rank": 14,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Grand Theft Auto V",
+      "rank": 15,
+      "period": "2026-08",
+      "region": "Asia",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Assassin’s Creed Black Flag Resynced",
+      "rank": 15,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Split Fiction",
+      "rank": 16,
+      "period": "2026-08",
+      "region": "Asia",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Mortal Shell II",
+      "rank": 16,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps5",
+      "title": "eBaseball: PRO SPIRIT 2026",
+      "rank": 17,
+      "period": "2026-08",
+      "region": "Asia",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Mistfall Hunter",
+      "rank": 17,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps5",
+      "title": "007 First Light",
+      "rank": 18,
+      "period": "2026-08",
+      "region": "Asia",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Metal Gear Solid: Master Collection Vol.2",
+      "rank": 18,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Baldur’s Gate 3",
+      "rank": 19,
+      "period": "2026-08",
+      "region": "Asia",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps5",
+      "title": "007 First Light",
+      "rank": 19,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Call of Duty: Black Ops Cold War",
+      "rank": 20,
+      "period": "2026-08",
+      "region": "Asia",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps5",
+      "title": "Mafia: Definitive Edition for PS5",
+      "rank": 20,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Assassin’s Creed Odyssey",
+      "rank": 1,
+      "period": "2026-08",
+      "region": "Asia",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Tom Clancy’s Ghost Recon Wildlands",
+      "rank": 1,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Red Dead Redemption 2",
+      "rank": 2,
+      "period": "2026-08",
+      "region": "Asia",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Red Dead Redemption 2",
+      "rank": 2,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Overcooked! 2",
+      "rank": 3,
+      "period": "2026-08",
+      "region": "Asia",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Gang Beasts",
+      "rank": 3,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Metal Slug 3",
+      "rank": 4,
+      "period": "2026-08",
+      "region": "Asia",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Batman: Arkham Knight",
+      "rank": 4,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Watch Dogs 2",
+      "rank": 5,
+      "period": "2026-08",
+      "region": "Asia",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Dying Light",
+      "rank": 5,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Call of Duty: WWII",
+      "rank": 6,
+      "period": "2026-08",
+      "region": "Asia",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Assassin’s Creed Odyssey",
+      "rank": 6,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Batman: Arkham Knight",
+      "rank": 7,
+      "period": "2026-08",
+      "region": "Asia",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Tom Clancy’s Ghost Recon Breakpoint",
+      "rank": 7,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Call of Duty: Modern Warfare 2 Campaign Remastered",
+      "rank": 8,
+      "period": "2026-08",
+      "region": "Asia",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps4",
+      "title": "The Forest",
+      "rank": 8,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps4",
+      "title": "UNCHARTED: The Nathan Drake Collection",
+      "rank": 9,
+      "period": "2026-08",
+      "region": "Asia",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Minecraft",
+      "rank": 9,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps4",
+      "title": "METAL SLUG XX",
+      "rank": 10,
+      "period": "2026-08",
+      "region": "Asia",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Call of Duty: WWII",
+      "rank": 10,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps4",
+      "title": "The King of Fighters ’97: Global Match",
+      "rank": 11,
+      "period": "2026-08",
+      "region": "Asia",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Mortal Kombat X",
+      "rank": 11,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps4",
+      "title": "ACE COMBAT 7: SKIES UNKNOWN",
+      "rank": 12,
+      "period": "2026-08",
+      "region": "Asia",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Call of Duty: Black Ops III",
+      "rank": 12,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps4",
+      "title": "God of War",
+      "rank": 13,
+      "period": "2026-08",
+      "region": "Asia",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps4",
+      "title": "LEGO Marvel Super Heroes",
+      "rank": 13,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Dying Light",
+      "rank": 14,
+      "period": "2026-08",
+      "region": "Asia",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Call of Duty: Black Ops II",
+      "rank": 14,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Shadow of the Tomb Raider: Definitive Edition",
+      "rank": 15,
+      "period": "2026-08",
+      "region": "Asia",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Call of Duty: Black Ops 4",
+      "rank": 15,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps4",
+      "title": "TEKKEN 7",
+      "rank": 16,
+      "period": "2026-08",
+      "region": "Asia",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps4",
+      "title": "theHunter: Call of the Wild",
+      "rank": 16,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Assassin’s Creed Origins",
+      "rank": 17,
+      "period": "2026-08",
+      "region": "Asia",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Need for Speed Heat",
+      "rank": 17,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps4",
+      "title": "A Way Out",
+      "rank": 18,
+      "period": "2026-08",
+      "region": "Asia",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Call of Duty: Ghosts",
+      "rank": 18,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Bloodborne",
+      "rank": 19,
+      "period": "2026-08",
+      "region": "Asia",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Star Wars Battlefront II",
+      "rank": 19,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Tomb Raider: Definitive Edition",
+      "rank": 20,
+      "period": "2026-08",
+      "region": "Asia",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    },
+    {
+      "platform": "ps4",
+      "title": "Bully",
+      "rank": 20,
+      "period": "2026-08",
+      "region": "US/Canada",
+      "source": "https://blog.playstation.com/2026/09/09/20260910-top/"
+    }
+  ]
+}

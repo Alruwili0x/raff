@@ -1,0 +1,18 @@
+/* Exact, explicitly sourced per-core manifests; archive directories are read
+ * without extracting or renaming arcade sets. A ZIP directory match is not a
+ * claim that the compressed data has been hashed or that gameplay was tested. */
+(function(root){
+'use strict';
+function zipDirectory(fs,path){const size=fs('stat',path)?.size;if(!size)throw Error('Missing arcade archive');const offset=Math.max(0,size-65557),tail=new Uint8Array(fs('slice',path,{offset,length:size-offset}));const view=new DataView(tail.buffer);let eocd=-1;for(let n=tail.length-22;n>=0;n--)if(view.getUint32(n,true)===0x06054b50&&n+22+view.getUint16(n+20,true)===tail.length){eocd=n;break;}if(eocd<0)throw Error('Invalid ZIP directory');const count=view.getUint16(eocd+10,true),length=view.getUint32(eocd+12,true),start=view.getUint32(eocd+16,true);if(count===65535||length>1048576||start+length>size)throw Error('ZIP64 or oversized directory needs external validation');const bytes=new Uint8Array(fs('slice',path,{offset:start,length})),v=new DataView(bytes.buffer),entries=new Map();let at=0;for(let n=0;n<count;n++){if(at+46>bytes.length||v.getUint32(at,true)!==0x02014b50)throw Error('Incomplete ZIP directory');const names=v.getUint16(at+28,true),extra=v.getUint16(at+30,true),comment=v.getUint16(at+32,true);if(at+46+names+extra+comment>bytes.length)throw Error('Invalid ZIP entry');const name=new TextDecoder().decode(bytes.subarray(at+46,at+46+names));if(name.startsWith('/')||name.includes('\\')||name.split('/').includes('..')||entries.has(name))throw Error('Unsafe or duplicate archive entry');entries.set(name,{size:v.getUint32(at+24,true),crc:v.getUint32(at+16,true).toString(16).padStart(8,'0')});at+=46+names+extra+comment;}return entries;}
+function validate({manifest,folder,core,fs,resolve}){
+ if(manifest.schema!=='raff-requirements-1'||!['arcade','engine'].includes(manifest.kind)||!/^https:\/\//.test(manifest.source||'')||!/^\d{4}-\d{2}-\d{2}/.test(manifest.checkedAt||''))throw Error('A sourced, dated requirements manifest is required');
+ if(!core||core.id!==manifest.core||!core.version||core.version!==manifest.coreVersion)throw Error('Manifest does not match the installed core version');
+ if(!Array.isArray(manifest.files)||!manifest.files.length||manifest.files.length>512)throw Error('Invalid dependency manifest');
+ const files=[];for(const f of manifest.files){const path=resolve(folder,f.path),state=fs('stat',path);let item={path,role:f.role||'game-data',present:state?.type==='file',checksum:'not-verified'};if(item.present&&f.size!==undefined&&Number(f.size)!==state.size)item.error='size-mismatch';if(item.present&&f.md5){if(!/^[a-f0-9]{32}$/i.test(f.md5))throw Error('Invalid manifest MD5');try{item.checksum=fs('md5',path).toLowerCase()===f.md5.toLowerCase()?'verified':'mismatch';}catch{item.checksum='requires-external-hash';}}
+  if(item.present&&Array.isArray(f.roms)){const entries=zipDirectory(fs,path);item.romDirectoryMatches=f.roms.every(r=>{const actual=entries.get(r.name);return actual&&actual.size===r.size&&actual.crc===String(r.crc).toLowerCase();});item.archiveContentHashes='not-verified';}
+  files.push(item);
+ }
+ return{status:files.some(f=>!f.present||f.error||f.checksum==='mismatch'||f.romDirectoryMatches===false)?'missing-or-mismatched-dependencies':'dependencies-present',core:core.id,coreVersion:core.version,source:manifest.source,checkedAt:manifest.checkedAt,validatedAt:new Date().toISOString(),kind:manifest.kind,files,gameplay:'not-tested'};
+}
+const api={validate,zipDirectory};if(typeof module!=='undefined'&&module.exports)module.exports=api;else root.RaffDependencies=api;
+})(globalThis);

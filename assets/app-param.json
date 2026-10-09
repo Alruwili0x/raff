@@ -1,0 +1,41 @@
+{
+  "applicationCategoryType": 0,
+  "requiredSystemSoftwareVersion": "0x0000000000000000",
+  "downloadDataSize": 256,
+  "contentId": "UP9000-PPSA99178_00-RAFFLIBRARY00005",
+  "attribute": 0,
+  "contentVersion": "01.010.003",
+  "gameIntent": {
+    "permittedIntents": [
+      {
+        "intentType": "launchActivity"
+      }
+    ]
+  },
+  "versionFileUri": "",
+  "masterVersion": "01.00",
+  "sdkVersion": "0x0000000000000000",
+  "ageLevel": {
+    "default": 0
+  },
+  "pubtools": {
+    "creationDate": "2026-10-05 00:00:00",
+    "loudnessSnd0": "-28.00",
+    "toolVersion": "2.00"
+  },
+  "attribute3": 0,
+  "localizedParameters": {
+    "defaultLanguage": "en-US",
+    "en-US": {
+      "titleName": "Raff - Game Library"
+    },
+    "ar-AE": {
+      "titleName": "رفّ - مكتبة الألعاب"
+    }
+  },
+  "contentBadgeType": 1,
+  "titleId": "PPSA99178",
+  "attribute2": 0,
+  "applicationDrmType": "free",
+  "conceptId": "99178"
+}
