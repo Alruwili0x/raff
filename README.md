@@ -1,86 +1,158 @@
-# رفّ · Raff
+<p align="center"><strong>العربية</strong> · <a href="docs/README.en.md" lang="en">English</a></p>
 
-مكتبة ألعاب ومحاكيات بواجهة أصلية على PS5، بالعربية والإنجليزية. من تطوير **محمد الرويلي** — [X / Twitter: @MohamedFAlrwili](https://x.com/MohamedFAlrwili).
+<div dir="rtl" align="right">
 
-اكتشف ألعابك حسب المنصة، اختر مصدرًا ونسخة، وتابع التحميل والنقل من مكان واحد. تدعم الواجهة يد التحكم، البحث، المفضلة، مسارات الألعاب، التحميل المتعدد، واختيار ملفات لعبة واحدة من التورنت.
+# رفّ — مكتبة ألعاب ومحاكيات
 
-## التحميل
+واجهة أصلية لبلايستيشن 5، تدعم العربية والإنجليزية ويد التحكم. تصفّح الأجهزة، افتح مكتبة ألعابك، وتابع التحميلات من مكان واحد.
 
-[**تحميل مثبّت رفّ ELF**](https://github.com/Alruwili0x/raff/releases/download/v1.1.1/Raff-v1.1.1-Installer.elf) · [كل ملفات الإصدار](https://github.com/Alruwili0x/raff/releases)
+**من تطوير محمد الرويلي**
 
-واجهة أجهزة مصوّرة، فلترة حسب الشركة، أغلفة ألعاب، وتنقل كامل بيد التحكم. اختر الجهاز ثم افتح مكتبته. تظهر المحاكيات وملفاتها المتاحة دون تبويب مصادر أو روابط تنزيل مطوّلة.
+<p dir="ltr" align="right"><a href="https://x.com/MohamedFAlrwili">X / Twitter · @MohamedFAlrwili</a></p>
+
+**[تحميل مثبّت رفّ](https://github.com/Alruwili0x/raff/releases/download/v1.1.1/Raff-v1.1.1-Installer.elf)** · [صفحة الإصدار](https://github.com/Alruwili0x/raff/releases/tag/v1.1.1) · [جميع الإصدارات](https://github.com/Alruwili0x/raff/releases)
 
 ![واجهة رفّ بالعربية](docs/screenshots/systems-ar.png)
 
-## المتطلبات
+## ابدأ بهذا الملف
 
-| المطلوب | التفاصيل |
-|---|---|
-| الجهاز | PS5 مع بيئة homebrew تعمل بالفعل؛ جهاز التطوير يستخدم النظام 13.60. وجود الإصدار نفسه وحده لا يكفي. |
-| تشغيل التطبيق | محمّل تطبيقات أصلية يدعم مجلد `/data/homebrew/PPSA99178`، مثل إعداد ShadowMount المستخدم في الاختبار. |
-| محمّل ELF | يستمع محليًا على المنفذ 9021 لتشغيل خدمة رفّ ومثبت التحديث. |
-| خدمات التحميل | aria2 مع BitTorrent، وWeb File Manager، و7-Zip Helper. حزمة التثبيت تضم النسخ المحددة وإشعاراتها، ويجهزها رفّ عند التشغيل الأول إذا لم تكن موجودة. |
-| الإنترنت | لتنزيل الملفات والأغلفة الجديدة والتحقق من تحديثات GitHub. يمكن تصفح الفهارس والأغلفة المخزنة دون اتصال. |
-| المساحة | مساحة التطبيق والألعاب، ومساحة إضافية لفك الضغط. للتحديث: حجم الحزمة × 3 + 128 MiB حد أولي، مع مساحة إضافية لنسخ الأغلفة عند عدم دعم الروابط الصلبة. |
-| المحاكيات | تُثبت مستقلة. رفّ لا يحوّل جهازًا غير مدعوم إلى جهاز متوافق ولا يضمن تشغيل كل لعبة. |
+للتثبيت لأول مرة، حمّل **ملف المثبّت فقط**:
 
-لا تحتاج إلى حساب GitHub لاستخدام التطبيق. لا يحتاج الاستخدام اليومي إلى تشغيل خادم على الكمبيوتر. لا تتضمن الحزمة ألعابًا أو BIOS أو مفاتيح أجهزة أو بيانات حسابات.
+<p dir="ltr" align="right"><code>Raff-v1.1.1-Installer.elf</code></p>
 
-## التثبيت الأسهل — ELF مرة واحدة
+شغّله مرة واحدة وهو متصل بالإنترنت. ينزّل المثبّت ملفات رفّ ويتحقق منها، ثم يضعها في مسار التطبيق. عند فتح رفّ لأول مرة، يجهّز أدوات التحميل وفك الضغط إذا كانت غير موجودة.
 
-1. حمّل **Raff-v1.1.1-Installer.elf** من الرابط أعلاه.
-2. فعّل بيئة homebrew ومحمّل التطبيقات مثل ShadowMountPlus على السوني.
-3. شغّل ملف المثبّت عبر محمّل ELF المعتاد لديك؛ مثل إرساله إلى منفذ 9021 أو تشغيله من مدير الملفات.
-4. انتظر إشعار اكتمال التثبيت. ينزّل المثبّت ملفات رفّ من هذا المستودع ويتحقق من سلامتها ويضعها في المسار الصحيح.
-5. افتح **Raff - Game Library** من **Games** بعد فحص التطبيقات. لا تحتاج تشغيل مثبّت ELF عند كل استخدام. إذا لم تظهر الأيقونة فأعد فحص محمّل التطبيقات بعد إغلاق أي لعبة مفتوحة.
+**إذا كانت رفّ مثبتة بالفعل:** حدّثها من داخل التطبيق؛ المثبّت يترك النسخة الموجودة كما هي.
 
-المثبّت يحتاج اتصال إنترنت وحوالي 700 MiB مساحة فارغة مبدئيًا. تُحمّل الأغلفة عند الطلب. لا يثبت جلبريك أو محاكيات أو ألعابًا، ولا يغيّر إعدادات النظام. إذا كانت رفّ مثبتة بالفعل، يتركها كما هي ويوجّهك للتحديث من داخلها.
+## المميزات
 
-**التثبيت اليدوي:** ملف **Raff-v1.1.1-install.zip** بديل يتضمن ذاكرة الأغلفة. فكّه وانقل مجلد **PPSA99178** إلى **/data/homebrew/**، ثم أعد فحص التطبيقات. احتفظ بصلاحيات 0755 لملفات eboot.bin وELF وPRX، و0644 للبيانات.
+- بطاقات أجهزة مصوّرة، وشعارات واضحة، وفلترة حسب الشركة.
+- واجهة عربية وإنجليزية، وتنقل بيد التحكم، وبحث ومفضلة.
+- تحميل مباشر وتورنت، مع اختيار ملفات اللعبة المطلوبة من التورنت.
+- تحميلات متعددة، وشريط تقدم، وسرعة التحميل والوقت المتبقي.
+- مسارات ألعاب قابلة للتعديل، وتحديثات للمكتبة من داخل التطبيق.
 
-**عند الترقية اليدوية:** أغلق رفّ وأوقف تحميلاته مؤقتًا. احتفظ بمجلد **/data/raff/native-v5** وملفات الألعاب؛ لا تنقل بيانات جهاز آخر إلى جهازك.
+الاستخدام اليومي يعمل محليًا على السوني؛ لا يحتاج خادمًا على الكمبيوتر أو حسابًا في <span dir="ltr">GitHub</span>.
 
-## التحديث من التطبيق
+## ما الذي يلزم قبل التثبيت؟
 
-يبحث رفّ عن أحدث **GitHub Release مستقر** عند تشغيل خدمته ثم كل ست ساعات تقريبًا. يظهر التنبيه عندما تكون الخدمة متصلة؛ ليس إشعارًا سحابيًا يصل والجهاز مطفأ.
+1. **بلايستيشن 5 مع جلبريك وبيئة تطبيقات منزلية تعمل بالفعل.** جهاز التطوير يستخدم الإصدار <span dir="ltr"><code>13.60</code></span>؛ وجود رقم الإصدار وحده لا يكفي.
+2. **محمّل تطبيقات أصلية متوافق،** مثل <span dir="ltr">ShadowMountPlus</span>، يدعم مجلد تطبيق رفّ الموضح أدناه.
+3. **محمّل ملفات تنفيذ** <span dir="ltr">ELF Loader</span> يستمع محليًا على المنفذ <span dir="ltr"><code>9021</code></span>.
+4. **اتصال بالإنترنت ومساحة فارغة.** يحتاج المثبّت نحو 700 ميبيبايت مبدئيًا، مع مساحة إضافية للأغلفة والألعاب وفك الضغط.
 
-افتح **الإعدادات ← عن رفّ والتحديثات**، ثم «تحميل التحديث». يعرض التقدم ويتحقق من SHA-256 ومن كل ملف. بعد «تثبيت وإغلاق رفّ» يُنتظر إغلاق التطبيق، ثم تُستبدل ملفات البرنامج. أعد فتحه بعد اكتمال التثبيت. أوقف التحميلات أولًا؛ لا يُقطع نقل لعبة أو تثبيتها لإجراء تحديث.
+مسار التطبيق:
 
-تبقى الألعاب والإعدادات والتحميلات في أماكنها، وتُحتفظ الأغلفة والنسخة السابقة. لا يعدّل هذا النظام إعدادات تحديث نظام PS5. راجع [طريقة التحديث والاسترجاع](docs/UPDATES.md).
+<p dir="ltr" align="right"><code>/data/homebrew/PPSA99178</code></p>
 
-## مسارات شائعة
+## ماذا يجهّز رفّ تلقائيًا؟
 
-| المنصة | المحاكي / التشغيل | المسار الافتراضي |
-|---|---|---|
-| PS1 | PSXS5 عند اكتشافه، أو RetroArch | `/data/PSXS5/games` أو `/data/homebrew/PPSA99169/content/PS1` |
-| PS2 | PS5SX2 | `/data/PCSX2/games` |
-| PS3 | RPCS3، تجريبي | `/data/rpcs3/games` |
-| Switch | ProsperoEden | `/data/prosperoeden/roms` |
-| PS4 / PS5 | حسب دعم بيئة الجهاز والصيغة | `/data/etaHEN/games` |
-| Xbox | XPSemu | `/data/xemu/games` |
-| Xbox 360 | PS5X360، تجريبي | `/data/xbox360` |
-| بقية المنصات | الكور المناسب داخل RetroArch | `/data/homebrew/PPSA99169/content/` مع مجلد لكل منصة |
+الحزمة تتضمن نسخًا جاهزة للتشغيل من الأدوات التالية، ويجهّزها رفّ عند التشغيل الأول إذا كانت غير موجودة:
 
-ظهور منصة أو ملف في الفهرس يعني وجود بيانات له، وليس إثبات توافقه مع المحاكي. ملفات PS3 PKG مثلًا لا تُثبت كلعبة PS5، بل داخل محاكي PS3 عند دعمه.
+<table dir="rtl">
+<thead><tr><th>الأداة</th><th>وظيفتها</th></tr></thead>
+<tbody>
+<tr><td dir="ltr">aria2</td><td>تنزيل الملفات المباشرة والتورنت.</td></tr>
+<tr><td dir="ltr">Web File Manager</td><td>خدمات إدارة الملفات التي يعتمد عليها رفّ.</td></tr>
+<tr><td dir="ltr">7-Zip Helper</td><td>فك ضغط الملفات المدعومة.</td></tr>
+</tbody>
+</table>
+
+**تُثبَّت بشكل منفصل:** الجلبريك، ومحمّلات التطبيقات والتنفيذ، والمحاكيات، والألعاب، وملفات إقلاع الأجهزة <span dir="ltr">BIOS</span> ومفاتيحها. لا يثبّتها مثبّت رفّ تلقائيًا، ولا يغيّر إعدادات النظام.
+
+## خطوات التثبيت
+
+1. حمّل ملف المثبّت من الزر أعلى الصفحة.
+2. فعّل الجلبريك ومحمّل التطبيقات ومحمّل ملفات التنفيذ على السوني.
+3. شغّل المثبّت بالطريقة المعتادة لديك، مثل إرساله إلى المنفذ <span dir="ltr"><code>9021</code></span> أو تشغيله من مدير الملفات.
+4. انتظر إشعار اكتمال التثبيت. أبقِ السوني قيد التشغيل حتى ينتهي.
+5. بعد فحص التطبيقات، افتح رفّ من قسم **الألعاب**. يظهر باسم <span dir="ltr">Raff - Game Library</span>.
+
+إذا لم تظهر الأيقونة، أغلق أي لعبة مفتوحة وأعد فحص التطبيقات في محمّل التطبيقات. لا تحتاج إلى تشغيل المثبّت عند كل استخدام. تُحمّل الأغلفة عند الطلب، ويمكن تصفح الفهارس والأغلفة المخزّنة دون اتصال.
+
+## أي ملف أحمّل من صفحة الإصدار؟
+
+<table dir="rtl">
+<thead><tr><th>الملف</th><th>استخدامه</th></tr></thead>
+<tbody>
+<tr><td dir="ltr"><code>Raff-v1.1.1-Installer.elf</code></td><td><strong>الخيار المعتاد للمستخدم: مثبّت رفّ.</strong></td></tr>
+<tr><td dir="ltr"><code>Raff-v1.1.1-install.zip</code></td><td>بديل للتثبيت اليدوي، يتضمن أغلفة مخزّنة.</td></tr>
+<tr><td dir="ltr"><code>Raff-v1.1.1.raffupdate</code></td><td>حزمة يحمّلها نظام التحديث داخل رفّ.</td></tr>
+<tr><td dir="ltr"><code>Raff-v1.1.1-source.zip</code><br><code>Raff-v1.1.1-build-assets.zip</code></td><td>الكود المصدري ومدخلات البناء للمطورين.</td></tr>
+<tr><td dir="ltr"><code>*.tar.gz</code><br><code>Source code (zip)</code></td><td>أرشيفات للكود المصدري؛ ليست ملفات تشغيل. لا يحتاجها المستخدم العادي.</td></tr>
+<tr><td dir="ltr"><code>SHA256SUMS.txt</code><br><code>manifest.json</code><br><code>VALIDATION.md</code></td><td>بصمات الملفات، وقائمة محتويات الحزمة، ونتائج الاختبارات.</td></tr>
+</tbody>
+</table>
+
+## التحديث من داخل رفّ
+
+افتح **الإعدادات**، ثم **عن رفّ والتحديثات**، ثم **تحميل التحديث**. يعرض رفّ التقدم ويتحقق من سلامة الحزمة وملفاتها.
+
+أوقف التحميلات مؤقتًا وانتظر انتهاء أي تثبيت أو عملية ملفات، ثم اختر **تثبيت وإغلاق رفّ**. انتظر إشعار الاكتمال قبل فتح التطبيق مجددًا. تبقى الألعاب والإعدادات وسجل التحميلات، ويحتفظ رفّ بالأغلفة والنسخة السابقة للاسترجاع.
+
+يبحث رفّ عن إصدار مستقر على <span dir="ltr">GitHub</span> عند تشغيل خدمته، ثم كل ست ساعات تقريبًا وفق موعد الفحص المحفوظ. يظهر التنبيه أثناء تشغيل الخدمة واتصالها؛ لا يصل والجهاز مطفأ. هذه الميزة تحدّث **رفّ** ولا تعدّل إعدادات تحديث نظام السوني.
+
+يلزم للتحديث مبدئيًا ثلاثة أمثال حجم الحزمة، إضافة إلى 128 ميبيبايت، وقد تلزم مساحة أخرى لنسخ الأغلفة. التفاصيل في [دليل التحديث والاسترجاع](docs/UPDATES.md).
+
+## التثبيت اليدوي
+
+فك ملف التثبيت المضغوط، ثم انقل مجلد التطبيق إلى المسار التالي وأعد فحص التطبيقات:
+
+<p dir="ltr" align="right"><code>PPSA99178 → /data/homebrew/PPSA99178</code></p>
+
+احتفظ بصلاحيات التنفيذ <span dir="ltr"><code>0755</code></span> لملف التطبيق وملفات التنفيذ والوحدات، وبصلاحيات <span dir="ltr"><code>0644</code></span> للبيانات.
+
+<p dir="ltr" align="right"><code>eboot.bin · *.elf · *.prx</code></p>
+
+عند الترقية اليدوية، أغلق رفّ وأوقف تحميلاته مؤقتًا. احتفظ بملفات الألعاب ومجلد بيانات المستخدم التالي، ولا تستبدله ببيانات جهاز آخر:
+
+<p dir="ltr" align="right"><code>/data/raff/native-v5</code></p>
+
+## مسارات الألعاب الشائعة
+
+يمكن تعديل المسارات من إعدادات رفّ. اكتشاف المحاكي المثبّت وإعداداته قد يؤثر في المسار المختار.
+
+<table dir="rtl">
+<thead><tr><th>المنصة</th><th>المحاكي أو طريقة التشغيل</th><th>المسار الافتراضي</th></tr></thead>
+<tbody>
+<tr><td dir="ltr">PS1</td><td dir="ltr">PSXS5 / RetroArch</td><td dir="ltr"><code>/data/PSXS5/games</code><br><code>/data/homebrew/PPSA99169/content/PS1</code></td></tr>
+<tr><td dir="ltr">PS2</td><td dir="ltr">PS5SX2</td><td dir="ltr"><code>/data/PCSX2/games</code></td></tr>
+<tr><td dir="ltr">PS3</td><td><span dir="ltr">RPCS3</span> — تجريبي</td><td dir="ltr"><code>/data/rpcs3/games</code></td></tr>
+<tr><td dir="ltr">Nintendo Switch</td><td dir="ltr">ProsperoEden</td><td dir="ltr"><code>/data/prosperoeden/roms</code></td></tr>
+<tr><td dir="ltr">PS4 / PS5</td><td>حسب دعم بيئة الجهاز وصيغة الملف</td><td dir="ltr"><code>/data/etaHEN/games</code></td></tr>
+<tr><td dir="ltr">Xbox</td><td dir="ltr">XPSemu</td><td dir="ltr"><code>/data/xemu/games</code></td></tr>
+<tr><td dir="ltr">Xbox 360</td><td><span dir="ltr">PS5X360</span> — تجريبي</td><td dir="ltr"><code>/data/xbox360</code></td></tr>
+<tr><td>بقية المنصات</td><td>الكور المناسب داخل <span dir="ltr">RetroArch</span></td><td dir="ltr"><code>/data/homebrew/PPSA99169/content/</code></td></tr>
+</tbody>
+</table>
+
+تستخدم بقية المنصات مجلدًا فرعيًا لكل منصة. ظهور لعبة أو منصة في الفهرس لا يضمن توافقها مع المحاكي. حزم ألعاب بلايستيشن 3، مثلًا، تُثبت داخل محاكيها عند دعمه، ولا تُثبت كلعبة بلايستيشن 5.
 
 ## التحكم
 
-| الزر | الوظيفة |
-|---|---|
-| × / ○ | اختيار / رجوع |
-| L1 / R1 | تغيير الشركة في لوحة الأجهزة، أو المنصة داخل المكتبة |
-| L2 / R2 | الصفحات؛ مجموعات الإعدادات داخل الإعدادات |
-| △ / □ | البحث / الترتيب والفلترة |
-| L3 | تغيير اللغة |
-| R3 | شبكة الأغلفة / العرض السينمائي |
-| Options | الإعدادات |
+<table dir="rtl">
+<thead><tr><th>الزر</th><th>الوظيفة</th></tr></thead>
+<tbody>
+<tr><td dir="ltr">× / ○</td><td>اختيار / رجوع.</td></tr>
+<tr><td dir="ltr">L1 / R1</td><td>تغيير الشركة في لوحة الأجهزة، أو المنصة داخل المكتبة.</td></tr>
+<tr><td dir="ltr">L2 / R2</td><td>تغيير الصفحة، أو مجموعة الإعدادات داخل الإعدادات.</td></tr>
+<tr><td dir="ltr">△ / □</td><td>البحث / الترتيب والفلترة داخل المكتبة.</td></tr>
+<tr><td dir="ltr">L3</td><td>تغيير اللغة.</td></tr>
+<tr><td dir="ltr">R3</td><td>التبديل بين شبكة الأغلفة والعرض السينمائي داخل المكتبة.</td></tr>
+<tr><td dir="ltr">Options</td><td>فتح الإعدادات.</td></tr>
+</tbody>
+</table>
 
-## English
+## التوافق والوثائق
 
-Raff is a native PS5 game and emulator library by **Mohammed Al-Ruwaili** ([X / Twitter](https://x.com/MohamedFAlrwili)), with Arabic and English UI, controller navigation, direct downloads and per-game torrent selection. Daily use runs locally on the console. It requires an already working homebrew environment, a native app loader and a local ELF loader on port 9021. The development console runs firmware 13.60; support on other configurations has not been established.
+اختُبر رفّ على جهاز التطوير بإصدار <span dir="ltr"><code>13.60</code></span> وبيئة التطبيقات الموضحة. لم يُثبت التوافق مع كل إصدار أو محمّل أو محاكي. الحزمة لا تتضمن ألعابًا أو ملفات إقلاع أو مفاتيح أجهزة أو بيانات حسابات.
 
-Run **Raff-v1.1.1-Installer.elf** once through your existing ELF loader. It downloads the pinned release over verified HTTPS, checks every file, and installs Raff for your homebrew app loader. Open Raff from Games after the scan. Existing installations are left untouched. The install ZIP is an alternative that includes cached artwork. Configure your own emulator folders. Emulators, games, BIOS files and console keys are separate.
+- [نتائج الاختبار وحدوده](docs/VALIDATION.md)
+- [طريقة البناء للمطورين](docs/BUILD.md)
+- [التحديث والاسترجاع](docs/UPDATES.md)
+- [الخصوصية](docs/PRIVACY.md)
+- [تراخيص المكونات وإشعاراتها](THIRD_PARTY_NOTICES.md)
 
-Stable GitHub releases are checked periodically while the service runs, without a GitHub login. Settings → About & updates lets you download, verify and install an update. Pause downloads first; installation closes Raff. Personal data stays in `/data/raff/native-v5`, and game folders are not replaced. Artwork is retained so updates do not download the full cover cache again.
+الوثائق التقنية أعلاه بالإنجليزية. ترخيص كود رفّ هو <span dir="ltr">GPL-3.0-or-later</span>؛ وتحتفظ البيانات والأغلفة والمكونات الخارجية بتراخيصها وحقوق أصحابها.
 
-See [build instructions](docs/BUILD.md), [updates and recovery](docs/UPDATES.md), [privacy](docs/PRIVACY.md) and [third-party notices](THIRD_PARTY_NOTICES.md). Raff code is GPL-3.0-or-later; linked metadata, artwork and dependencies retain their respective terms.
+</div>
