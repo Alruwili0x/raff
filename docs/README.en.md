@@ -34,6 +34,14 @@ Run it once with an internet connection. It downloads and verifies Raff, then pl
 
 Daily use runs locally on the console. A PC server or GitHub account is not required.
 
+## Download speed
+
+A real **Metal Gear Solid 2 — Sons of Liberty** download captured on the PS5 using Raff **1.1.1** on **9 October 2026**. The Arabic UI shows **33.1 MB/s**, **89.4%** progress, and **11 seconds** remaining:
+
+![Metal Gear Solid 2 downloading in Raff at 33.1 MB/s, with 89.4% progress and 11 seconds remaining](screenshots/download-speed-ar.png)
+
+This is an instantaneous reading at the time of capture. Speeds vary with your connection, download source, and concurrent transfers; it is neither a guaranteed rate nor a speed limit.
+
 ## Prerequisites
 
 1. **A PS5 with a working jailbreak and homebrew environment.** The development console runs firmware **13.60**; the firmware number alone is not sufficient.
